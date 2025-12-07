@@ -105,7 +105,7 @@ def get_num_transfer_tokens(mask_index, steps):
 def generate_with_anchors(model, tokenizer, prompt, anchor_positions=None, anchor_token_ids=None,
                           steps=128, gen_length=128, block_length=128, temperature=0.,
                           cfg_scale=0., remasking='low_confidence', mask_id=126336, verbose=True,
-                          track_positions=None, top_k=10):
+                          track_positions=None, top_k=5):
     '''
     Args:
         model: Mask predictor.
@@ -122,17 +122,9 @@ def generate_with_anchors(model, tokenizer, prompt, anchor_positions=None, ancho
         remasking: Remasking strategy. 'low_confidence' or 'random'.
         mask_id: The token id of [MASK] is 126336.
         track_positions: List of positions (relative to start of generation) to track probability distributions.
-                        E.g., [5, 10] will track the distribution at positions 5 and 10 across all steps.
-        top_k: Number of top tokens to display in the distribution tracking.
+                        E.g., [5, 10] will track the top-k tokens at positions 5 and 10 across all steps.
+        top_k: Number of top tokens to display (default 5).
     '''
-
-    # Initialize tracking data structure
-    position_tracking = {}
-    if track_positions is not None:
-        for pos in track_positions:
-            position_tracking[pos] = {
-                'step_data': [],  # Store data for each step: (step_num, top_tokens, top_probs, predicted_token)
-            }
 
     # Create fully masked sequence
     x = torch.full((1, prompt.shape[1] + gen_length), mask_id, dtype=torch.long).to(model.device)
@@ -165,12 +157,18 @@ def generate_with_anchors(model, tokenizer, prompt, anchor_positions=None, ancho
     num_blocks = gen_length // block_length
 
     assert steps % num_blocks == 0
-    steps = steps // num_blocks
+    steps_per_block = steps // num_blocks
+
+    # Print header for tracking if enabled
+    if track_positions is not None and verbose:
+        print("\n" + "=" * 80)
+        print("TRACKING PROBABILITY DISTRIBUTIONS AT SPECIFIED POSITIONS")
+        print("=" * 80)
 
     for num_block in range(num_blocks):
         block_mask_index = (x[:, prompt.shape[1] + num_block * block_length: prompt.shape[1] + (num_block + 1) * block_length:] == mask_id)
-        num_transfer_tokens = get_num_transfer_tokens(block_mask_index, steps)
-        for i in range(steps):
+        num_transfer_tokens = get_num_transfer_tokens(block_mask_index, steps_per_block)
+        for i in range(steps_per_block):
             mask_index = (x == mask_id)
             if cfg_scale > 0.:
                 un_x = x.clone()
@@ -185,8 +183,33 @@ def generate_with_anchors(model, tokenizer, prompt, anchor_positions=None, ancho
             logits_with_noise = add_gumbel_noise(logits, temperature=temperature)
             x0 = torch.argmax(logits_with_noise, dim=-1) # b, l
 
+            # Calculate probabilities
+            p = F.softmax(logits, dim=-1)
+
+            # Track and print top-k tokens at specified positions
+            if track_positions is not None and verbose:
+                global_step = num_block * steps_per_block + i
+                for track_pos in track_positions:
+                    absolute_track_pos = prompt.shape[1] + track_pos
+                    if absolute_track_pos < x.shape[1]:
+                        # Get probabilities for this position
+                        pos_probs = p[0, absolute_track_pos, :]
+                        # Get top-k tokens and their probabilities
+                        top_probs, top_indices = torch.topk(pos_probs, k=min(top_k, pos_probs.shape[0]))
+
+                        # Get the predicted token at this position
+                        predicted_token = x0[0, absolute_track_pos].item()
+                        is_masked = mask_index[0, absolute_track_pos].item()
+
+                        print(f"\nStep {global_step:3d} | Position {track_pos:3d} | Masked: {is_masked}")
+                        if i < 20:
+                            print(f"  Top {top_k} tokens:")
+                            for rank, (token_id, prob) in enumerate(zip(top_indices.cpu().tolist(), top_probs.cpu().tolist()), 1):
+                                token_text = tokenizer.decode([token_id])
+                                marker = " <- PREDICTED" if token_id == predicted_token else ""
+                                print(f"    {rank}. {token_text:20s} (ID: {token_id:6d}, prob: {prob:.4f}){marker}")
+
             if remasking == 'low_confidence':
-                p = F.softmax(logits, dim=-1)
                 x0_p = torch.squeeze(
                     torch.gather(p, dim=-1, index=torch.unsqueeze(x0, -1)), -1) # b, l
             elif remasking == 'random':
@@ -205,6 +228,11 @@ def generate_with_anchors(model, tokenizer, prompt, anchor_positions=None, ancho
                 transfer_index[j, select_index] = True
             x[transfer_index] = x0[transfer_index]
 
+    if track_positions is not None and verbose:
+        print("\n" + "=" * 80)
+        print("END OF TRACKING")
+        print("=" * 80 + "\n")
+
     return x
 
 
@@ -215,45 +243,49 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained('GSAI-ML/LLaDA-8B-Instruct', trust_remote_code=True)
 
     # Example question
-    prompt = "When did Assassination of JFK happen in Cambridge, Massachusetts?"
+    prompt = "In what year was Jane Austen born?"
     m = [{"role": "user", "content": prompt}]
     prompt_text = tokenizer.apply_chat_template(m, add_generation_prompt=True, tokenize=False)
     input_ids = tokenizer(prompt_text)['input_ids']
     input_ids = torch.tensor(input_ids).to(device).unsqueeze(0)
 
-    # print("=" * 80)
-    # print("BASELINE: No anchors (fully masked)")
-    # print("=" * 80)
-    # out_baseline = generate_with_anchors(model, tokenizer, input_ids, steps=128, gen_length=64,
-    #                                      block_length=64, temperature=0., cfg_scale=0.,
-    #                                      remasking='low_confidence', verbose=False)
-    # result_baseline = tokenizer.batch_decode(out_baseline[:, input_ids.shape[1]:], skip_special_tokens=True)[0]
-    # print(f"Output: {result_baseline}")
+    # Define your anchors as (position, text) pairs
+    # IMPORTANT: If text tokenizes to multiple tokens, they will be inserted sequentially
+    anchors = [
+         (6, "2022"),
+    ]
 
-    # # Print token analysis for baseline
-    # print_output_tokens(tokenizer, out_baseline[:, input_ids.shape[1]:], verbose=True)
+    # Convert to the format needed by the function
+    # This properly handles multi-token anchors
+    anchor_positions = []
+    anchor_token_ids = []
 
-    print("\n" + "=" * 80)
-    print("WITH ANCHORS: Insert 'Tokyo' as anchor")
-    print("=" * 80)
+    for pos, text in anchors:
+        tokens = tokenizer.encode(text, add_special_tokens=False)
+        print(f"Anchor '{text}' tokenizes to {len(tokens)} tokens: {tokens}")
+        print(f"  Token texts: {[tokenizer.decode([t]) for t in tokens]}")
 
-    anchor_text = "Tokyo"
-    anchor_token_id = tokenizer.encode(anchor_text, add_special_tokens=False)[0]
-    print(f"Anchor token '{anchor_text}' has ID: {anchor_token_id}")
+        # Insert all tokens sequentially starting from pos
+        for i, token_id in enumerate(tokens):
+            anchor_positions.append(pos + i)
+            anchor_token_ids.append(token_id)
 
-    # Try inserting "Tokyo" at position 6 in the generated sequence
-    anchor_positions = [6]
-    anchor_token_ids = [anchor_token_id]
+    print(f"\nFinal anchor positions: {anchor_positions}")
+    print(f"Final anchor token IDs: {anchor_token_ids}")
+
+    track_positions = [2, 4, 5, 6, 7]  # Track around the anchor
 
     out_anchored = generate_with_anchors(model, tokenizer, input_ids,
                                          anchor_positions=anchor_positions,
                                          anchor_token_ids=anchor_token_ids,
-                                         steps=128, gen_length=128,
-                                         block_length=32, temperature=0.,
+                                         steps=64, gen_length=64,
+                                         block_length=64, temperature=0.,
                                          cfg_scale=0., remasking='low_confidence',
-                                         verbose=True)
+                                         verbose=True,
+                                         track_positions=track_positions,
+                                         top_k=5)
     result_anchored = tokenizer.batch_decode(out_anchored[:, input_ids.shape[1]:], skip_special_tokens=True)[0]
-    print(f"Output: {result_anchored}")
+    print(f"Final Output: {result_anchored}")
 
     # Print token analysis for anchored output
     print_output_tokens(tokenizer, out_anchored[:, input_ids.shape[1]:], verbose=True)
