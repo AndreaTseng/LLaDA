@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "country_capital_001",
+    "category": "country_capital",
+    "subject": "France",
+    "gold_answer": "Paris",
+    "prompt": "Question: What is the capital of France?\nAnswer:"
+  },
+  {
+    "id": "country_capital_002",
+    "category": "country_capital",
+    "subject": "Japan",
+    "gold_answer": "Tokyo",
+    "prompt": "Question: What is the capital of Japan?\nAnswer:"
+  },
+  {
+    "id": "country_capital_003",
+    "category": "country_capital",
+    "subject": "China",
+    "gold_answer": "Beijing",
+    "prompt": "Question: What is the capital of China?\nAnswer:"
+  },
+  {
+    "id": "country_capital_004",
+    "category": "country_capital",
+    "subject": "India",
+    "gold_answer": "New Delhi",
+    "prompt": "Question: What is the capital of India?\nAnswer:"
+  },
+  {
+    "id": "country_capital_005",
+    "category": "country_capital",
+    "subject": "Pakistan",
+    "gold_answer": "Islamabad",
+    "prompt": "Question: What is the capital of Pakistan?\nAnswer:"
+  },
+  {
+    "id": "country_capital_006",
+    "category": "country_capital",
+    "subject": "Brazil",
+    "gold_answer": "Brasilia",
+    "prompt": "Question: What is the capital of Brazil?\nAnswer:"
+  },
+  {
+    "id": "country_capital_007",
+    "category": "country_capital",
+    "subject": "Argentina",
+    "gold_answer": "Buenos Aires",
+    "prompt": "Question: What is the capital of Argentina?\nAnswer:"
+  },
+  {
+    "id": "country_capital_008",
+    "category": "country_capital",
+    "subject": "Canada",
+    "gold_answer": "Ottawa",
+    "prompt": "Question: What is the capital of Canada?\nAnswer:"
+  },
+  {
+    "id": "country_capital_009",
+    "category": "country_capital",
+    "subject": "United States",
+    "gold_answer": "Washington, D.C.",
+    "prompt": "Question: What is the capital of United States?\nAnswer:"
+  },
+  {
+    "id": "country_capital_010",
+    "category": "country_capital",
+    "subject": "United Kingdom",
+    "gold_answer": "London",
+    "prompt": "Question: What is the capital of United Kingdom?\nAnswer:"
+  },
+  {
+    "id": "country_capital_011",
+    "category": "country_capital",
+    "subject": "Germany",
+    "gold_answer": "Berlin",
+    "prompt": "Question: What is the capital of Germany?\nAnswer:"
+  },
+  {
+    "id": "country_capital_012",
+    "category": "country_capital",
+    "subject": "Italy",
+    "gold_answer": "Rome",
+    "prompt": "Question: What is the capital of Italy?\nAnswer:"
+  },
+  {
+    "id": "country_capital_013",
+    "category": "country_capital",
+    "subject": "Spain",
+    "gold_answer": "Madrid",
+    "prompt": "Question: What is the capital of Spain?\nAnswer:"
+  },
+  {
+    "id": "country_capital_014",
+    "category": "country_capital",
+    "subject": "Portugal",
+    "gold_answer": "Lisbon",
+    "prompt": "Question: What is the capital of Portugal?\nAnswer:"
+  },
+  {
+    "id": "country_capital_015",
+    "category": "country_capital",
+    "subject": "Russia",
+    "gold_answer": "Moscow",
+    "prompt": "Question: What is the capital of Russia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_016",
+    "category": "country_capital",
+    "subject": "South Korea",
+    "gold_answer": "Seoul",
+    "prompt": "Question: What is the capital of South Korea?\nAnswer:"
+  },
+  {
+    "id": "country_capital_017",
+    "category": "country_capital",
+    "subject": "North Korea",
+    "gold_answer": "Pyongyang",
+    "prompt": "Question: What is the capital of North Korea?\nAnswer:"
+  },
+  {
+    "id": "country_capital_018",
+    "category": "country_capital",
+    "subject": "Australia",
+    "gold_answer": "Canberra",
+    "prompt": "Question: What is the capital of Australia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_019",
+    "category": "country_capital",
+    "subject": "New Zealand",
+    "gold_answer": "Wellington",
+    "prompt": "Question: What is the capital of New Zealand?\nAnswer:"
+  },
+  {
+    "id": "country_capital_020",
+    "category": "country_capital",
+    "subject": "Mexico",
+    "gold_answer": "Mexico City",
+    "prompt": "Question: What is the capital of Mexico?\nAnswer:"
+  },
+  {
+    "id": "country_capital_021",
+    "category": "country_capital",
+    "subject": "Egypt",
+    "gold_answer": "Cairo",
+    "prompt": "Question: What is the capital of Egypt?\nAnswer:"
+  },
+  {
+    "id": "country_capital_022",
+    "category": "country_capital",
+    "subject": "South Africa",
+    "gold_answer": "Pretoria",
+    "prompt": "Question: What is the capital of South Africa?\nAnswer:"
+  },
+  {
+    "id": "country_capital_023",
+    "category": "country_capital",
+    "subject": "Nigeria",
+    "gold_answer": "Abuja",
+    "prompt": "Question: What is the capital of Nigeria?\nAnswer:"
+  },
+  {
+    "id": "country_capital_024",
+    "category": "country_capital",
+    "subject": "Kenya",
+    "gold_answer": "Nairobi",
+    "prompt": "Question: What is the capital of Kenya?\nAnswer:"
+  },
+  {
+    "id": "country_capital_025",
+    "category": "country_capital",
+    "subject": "Ethiopia",
+    "gold_answer": "Addis Ababa",
+    "prompt": "Question: What is the capital of Ethiopia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_026",
+    "category": "country_capital",
+    "subject": "Saudi Arabia",
+    "gold_answer": "Riyadh",
+    "prompt": "Question: What is the capital of Saudi Arabia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_027",
+    "category": "country_capital",
+    "subject": "United Arab Emirates",
+    "gold_answer": "Abu Dhabi",
+    "prompt": "Question: What is the capital of United Arab Emirates?\nAnswer:"
+  },
+  {
+    "id": "country_capital_028",
+    "category": "country_capital",
+    "subject": "Turkey",
+    "gold_answer": "Ankara",
+    "prompt": "Question: What is the capital of Turkey?\nAnswer:"
+  },
+  {
+    "id": "country_capital_029",
+    "category": "country_capital",
+    "subject": "Iran",
+    "gold_answer": "Tehran",
+    "prompt": "Question: What is the capital of Iran?\nAnswer:"
+  },
+  {
+    "id": "country_capital_030",
+    "category": "country_capital",
+    "subject": "Iraq",
+    "gold_answer": "Baghdad",
+    "prompt": "Question: What is the capital of Iraq?\nAnswer:"
+  },
+  {
+    "id": "country_capital_031",
+    "category": "country_capital",
+    "subject": "Israel",
+    "gold_answer": "Jerusalem",
+    "prompt": "Question: What is the capital of Israel?\nAnswer:"
+  },
+  {
+    "id": "country_capital_032",
+    "category": "country_capital",
+    "subject": "Jordan",
+    "gold_answer": "Amman",
+    "prompt": "Question: What is the capital of Jordan?\nAnswer:"
+  },
+  {
+    "id": "country_capital_033",
+    "category": "country_capital",
+    "subject": "Lebanon",
+    "gold_answer": "Beirut",
+    "prompt": "Question: What is the capital of Lebanon?\nAnswer:"
+  },
+  {
+    "id": "country_capital_034",
+    "category": "country_capital",
+    "subject": "Syria",
+    "gold_answer": "Damascus",
+    "prompt": "Question: What is the capital of Syria?\nAnswer:"
+  },
+  {
+    "id": "country_capital_035",
+    "category": "country_capital",
+    "subject": "Qatar",
+    "gold_answer": "Doha",
+    "prompt": "Question: What is the capital of Qatar?\nAnswer:"
+  },
+  {
+    "id": "country_capital_036",
+    "category": "country_capital",
+    "subject": "Kuwait",
+    "gold_answer": "Kuwait City",
+    "prompt": "Question: What is the capital of Kuwait?\nAnswer:"
+  },
+  {
+    "id": "country_capital_037",
+    "category": "country_capital",
+    "subject": "Oman",
+    "gold_answer": "Muscat",
+    "prompt": "Question: What is the capital of Oman?\nAnswer:"
+  },
+  {
+    "id": "country_capital_038",
+    "category": "country_capital",
+    "subject": "Yemen",
+    "gold_answer": "Sana'a",
+    "prompt": "Question: What is the capital of Yemen?\nAnswer:"
+  },
+  {
+    "id": "country_capital_039",
+    "category": "country_capital",
+    "subject": "Thailand",
+    "gold_answer": "Bangkok",
+    "prompt": "Question: What is the capital of Thailand?\nAnswer:"
+  },
+  {
+    "id": "country_capital_040",
+    "category": "country_capital",
+    "subject": "Vietnam",
+    "gold_answer": "Hanoi",
+    "prompt": "Question: What is the capital of Vietnam?\nAnswer:"
+  },
+  {
+    "id": "country_capital_041",
+    "category": "country_capital",
+    "subject": "Laos",
+    "gold_answer": "Vientiane",
+    "prompt": "Question: What is the capital of Laos?\nAnswer:"
+  },
+  {
+    "id": "country_capital_042",
+    "category": "country_capital",
+    "subject": "Cambodia",
+    "gold_answer": "Phnom Penh",
+    "prompt": "Question: What is the capital of Cambodia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_043",
+    "category": "country_capital",
+    "subject": "Singapore",
+    "gold_answer": "Singapore",
+    "prompt": "Question: What is the capital of Singapore?\nAnswer:"
+  },
+  {
+    "id": "country_capital_044",
+    "category": "country_capital",
+    "subject": "Malaysia",
+    "gold_answer": "Kuala Lumpur",
+    "prompt": "Question: What is the capital of Malaysia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_045",
+    "category": "country_capital",
+    "subject": "Indonesia",
+    "gold_answer": "Jakarta",
+    "prompt": "Question: What is the capital of Indonesia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_046",
+    "category": "country_capital",
+    "subject": "Philippines",
+    "gold_answer": "Manila",
+    "prompt": "Question: What is the capital of Philippines?\nAnswer:"
+  },
+  {
+    "id": "country_capital_047",
+    "category": "country_capital",
+    "subject": "Bangladesh",
+    "gold_answer": "Dhaka",
+    "prompt": "Question: What is the capital of Bangladesh?\nAnswer:"
+  },
+  {
+    "id": "country_capital_048",
+    "category": "country_capital",
+    "subject": "Sri Lanka",
+    "gold_answer": "Colombo",
+    "prompt": "Question: What is the capital of Sri Lanka?\nAnswer:"
+  },
+  {
+    "id": "country_capital_049",
+    "category": "country_capital",
+    "subject": "Nepal",
+    "gold_answer": "Kathmandu",
+    "prompt": "Question: What is the capital of Nepal?\nAnswer:"
+  },
+  {
+    "id": "country_capital_050",
+    "category": "country_capital",
+    "subject": "Bhutan",
+    "gold_answer": "Thimphu",
+    "prompt": "Question: What is the capital of Bhutan?\nAnswer:"
+  },
+  {
+    "id": "country_capital_051",
+    "category": "country_capital",
+    "subject": "Mongolia",
+    "gold_answer": "Ulaanbaatar",
+    "prompt": "Question: What is the capital of Mongolia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_052",
+    "category": "country_capital",
+    "subject": "Sweden",
+    "gold_answer": "Stockholm",
+    "prompt": "Question: What is the capital of Sweden?\nAnswer:"
+  },
+  {
+    "id": "country_capital_053",
+    "category": "country_capital",
+    "subject": "Norway",
+    "gold_answer": "Oslo",
+    "prompt": "Question: What is the capital of Norway?\nAnswer:"
+  },
+  {
+    "id": "country_capital_054",
+    "category": "country_capital",
+    "subject": "Finland",
+    "gold_answer": "Helsinki",
+    "prompt": "Question: What is the capital of Finland?\nAnswer:"
+  },
+  {
+    "id": "country_capital_055",
+    "category": "country_capital",
+    "subject": "Denmark",
+    "gold_answer": "Copenhagen",
+    "prompt": "Question: What is the capital of Denmark?\nAnswer:"
+  },
+  {
+    "id": "country_capital_056",
+    "category": "country_capital",
+    "subject": "Iceland",
+    "gold_answer": "Reykjavik",
+    "prompt": "Question: What is the capital of Iceland?\nAnswer:"
+  },
+  {
+    "id": "country_capital_057",
+    "category": "country_capital",
+    "subject": "Netherlands",
+    "gold_answer": "Amsterdam",
+    "prompt": "Question: What is the capital of Netherlands?\nAnswer:"
+  },
+  {
+    "id": "country_capital_058",
+    "category": "country_capital",
+    "subject": "Belgium",
+    "gold_answer": "Brussels",
+    "prompt": "Question: What is the capital of Belgium?\nAnswer:"
+  },
+  {
+    "id": "country_capital_059",
+    "category": "country_capital",
+    "subject": "Switzerland",
+    "gold_answer": "Bern",
+    "prompt": "Question: What is the capital of Switzerland?\nAnswer:"
+  },
+  {
+    "id": "country_capital_060",
+    "category": "country_capital",
+    "subject": "Austria",
+    "gold_answer": "Vienna",
+    "prompt": "Question: What is the capital of Austria?\nAnswer:"
+  },
+  {
+    "id": "country_capital_061",
+    "category": "country_capital",
+    "subject": "Poland",
+    "gold_answer": "Warsaw",
+    "prompt": "Question: What is the capital of Poland?\nAnswer:"
+  },
+  {
+    "id": "country_capital_062",
+    "category": "country_capital",
+    "subject": "Czech Republic",
+    "gold_answer": "Prague",
+    "prompt": "Question: What is the capital of Czech Republic?\nAnswer:"
+  },
+  {
+    "id": "country_capital_063",
+    "category": "country_capital",
+    "subject": "Slovakia",
+    "gold_answer": "Bratislava",
+    "prompt": "Question: What is the capital of Slovakia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_064",
+    "category": "country_capital",
+    "subject": "Hungary",
+    "gold_answer": "Budapest",
+    "prompt": "Question: What is the capital of Hungary?\nAnswer:"
+  },
+  {
+    "id": "country_capital_065",
+    "category": "country_capital",
+    "subject": "Romania",
+    "gold_answer": "Bucharest",
+    "prompt": "Question: What is the capital of Romania?\nAnswer:"
+  },
+  {
+    "id": "country_capital_066",
+    "category": "country_capital",
+    "subject": "Bulgaria",
+    "gold_answer": "Sofia",
+    "prompt": "Question: What is the capital of Bulgaria?\nAnswer:"
+  },
+  {
+    "id": "country_capital_067",
+    "category": "country_capital",
+    "subject": "Greece",
+    "gold_answer": "Athens",
+    "prompt": "Question: What is the capital of Greece?\nAnswer:"
+  },
+  {
+    "id": "country_capital_068",
+    "category": "country_capital",
+    "subject": "Serbia",
+    "gold_answer": "Belgrade",
+    "prompt": "Question: What is the capital of Serbia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_069",
+    "category": "country_capital",
+    "subject": "Croatia",
+    "gold_answer": "Zagreb",
+    "prompt": "Question: What is the capital of Croatia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_070",
+    "category": "country_capital",
+    "subject": "Slovenia",
+    "gold_answer": "Ljubljana",
+    "prompt": "Question: What is the capital of Slovenia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_071",
+    "category": "country_capital",
+    "subject": "Albania",
+    "gold_answer": "Tirana",
+    "prompt": "Question: What is the capital of Albania?\nAnswer:"
+  },
+  {
+    "id": "country_capital_072",
+    "category": "country_capital",
+    "subject": "North Macedonia",
+    "gold_answer": "Skopje",
+    "prompt": "Question: What is the capital of North Macedonia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_073",
+    "category": "country_capital",
+    "subject": "Ireland",
+    "gold_answer": "Dublin",
+    "prompt": "Question: What is the capital of Ireland?\nAnswer:"
+  },
+  {
+    "id": "country_capital_074",
+    "category": "country_capital",
+    "subject": "Lithuania",
+    "gold_answer": "Vilnius",
+    "prompt": "Question: What is the capital of Lithuania?\nAnswer:"
+  },
+  {
+    "id": "country_capital_075",
+    "category": "country_capital",
+    "subject": "Latvia",
+    "gold_answer": "Riga",
+    "prompt": "Question: What is the capital of Latvia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_076",
+    "category": "country_capital",
+    "subject": "Estonia",
+    "gold_answer": "Tallinn",
+    "prompt": "Question: What is the capital of Estonia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_077",
+    "category": "country_capital",
+    "subject": "Ukraine",
+    "gold_answer": "Kyiv",
+    "prompt": "Question: What is the capital of Ukraine?\nAnswer:"
+  },
+  {
+    "id": "country_capital_078",
+    "category": "country_capital",
+    "subject": "Belarus",
+    "gold_answer": "Minsk",
+    "prompt": "Question: What is the capital of Belarus?\nAnswer:"
+  },
+  {
+    "id": "country_capital_079",
+    "category": "country_capital",
+    "subject": "Georgia",
+    "gold_answer": "Tbilisi",
+    "prompt": "Question: What is the capital of Georgia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_080",
+    "category": "country_capital",
+    "subject": "Armenia",
+    "gold_answer": "Yerevan",
+    "prompt": "Question: What is the capital of Armenia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_081",
+    "category": "country_capital",
+    "subject": "Azerbaijan",
+    "gold_answer": "Baku",
+    "prompt": "Question: What is the capital of Azerbaijan?\nAnswer:"
+  },
+  {
+    "id": "country_capital_082",
+    "category": "country_capital",
+    "subject": "Chile",
+    "gold_answer": "Santiago",
+    "prompt": "Question: What is the capital of Chile?\nAnswer:"
+  },
+  {
+    "id": "country_capital_083",
+    "category": "country_capital",
+    "subject": "Peru",
+    "gold_answer": "Lima",
+    "prompt": "Question: What is the capital of Peru?\nAnswer:"
+  },
+  {
+    "id": "country_capital_084",
+    "category": "country_capital",
+    "subject": "Colombia",
+    "gold_answer": "Bogotá",
+    "prompt": "Question: What is the capital of Colombia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_085",
+    "category": "country_capital",
+    "subject": "Venezuela",
+    "gold_answer": "Caracas",
+    "prompt": "Question: What is the capital of Venezuela?\nAnswer:"
+  },
+  {
+    "id": "country_capital_086",
+    "category": "country_capital",
+    "subject": "Uruguay",
+    "gold_answer": "Montevideo",
+    "prompt": "Question: What is the capital of Uruguay?\nAnswer:"
+  },
+  {
+    "id": "country_capital_087",
+    "category": "country_capital",
+    "subject": "Paraguay",
+    "gold_answer": "Asunción",
+    "prompt": "Question: What is the capital of Paraguay?\nAnswer:"
+  },
+  {
+    "id": "country_capital_088",
+    "category": "country_capital",
+    "subject": "Bolivia",
+    "gold_answer": "Sucre",
+    "prompt": "Question: What is the capital of Bolivia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_089",
+    "category": "country_capital",
+    "subject": "Ecuador",
+    "gold_answer": "Quito",
+    "prompt": "Question: What is the capital of Ecuador?\nAnswer:"
+  },
+  {
+    "id": "country_capital_090",
+    "category": "country_capital",
+    "subject": "Cuba",
+    "gold_answer": "Havana",
+    "prompt": "Question: What is the capital of Cuba?\nAnswer:"
+  },
+  {
+    "id": "country_capital_091",
+    "category": "country_capital",
+    "subject": "Haiti",
+    "gold_answer": "Port-au-Prince",
+    "prompt": "Question: What is the capital of Haiti?\nAnswer:"
+  },
+  {
+    "id": "country_capital_092",
+    "category": "country_capital",
+    "subject": "Dominican Republic",
+    "gold_answer": "Santo Domingo",
+    "prompt": "Question: What is the capital of Dominican Republic?\nAnswer:"
+  },
+  {
+    "id": "country_capital_093",
+    "category": "country_capital",
+    "subject": "Jamaica",
+    "gold_answer": "Kingston",
+    "prompt": "Question: What is the capital of Jamaica?\nAnswer:"
+  },
+  {
+    "id": "country_capital_094",
+    "category": "country_capital",
+    "subject": "Morocco",
+    "gold_answer": "Rabat",
+    "prompt": "Question: What is the capital of Morocco?\nAnswer:"
+  },
+  {
+    "id": "country_capital_095",
+    "category": "country_capital",
+    "subject": "Tunisia",
+    "gold_answer": "Tunis",
+    "prompt": "Question: What is the capital of Tunisia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_096",
+    "category": "country_capital",
+    "subject": "Algeria",
+    "gold_answer": "Algiers",
+    "prompt": "Question: What is the capital of Algeria?\nAnswer:"
+  },
+  {
+    "id": "country_capital_097",
+    "category": "country_capital",
+    "subject": "Ghana",
+    "gold_answer": "Accra",
+    "prompt": "Question: What is the capital of Ghana?\nAnswer:"
+  },
+  {
+    "id": "country_capital_098",
+    "category": "country_capital",
+    "subject": "Zimbabwe",
+    "gold_answer": "Harare",
+    "prompt": "Question: What is the capital of Zimbabwe?\nAnswer:"
+  },
+  {
+    "id": "country_capital_099",
+    "category": "country_capital",
+    "subject": "Zambia",
+    "gold_answer": "Lusaka",
+    "prompt": "Question: What is the capital of Zambia?\nAnswer:"
+  },
+  {
+    "id": "country_capital_100",
+    "category": "country_capital",
+    "subject": "Zambia",
+    "gold_answer": "Lusaka",
+    "prompt": "Question: What is the capital of Zambia?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_001",
+    "category": "person_birth_year",
+    "subject": "Albert Einstein",
+    "gold_answer": "1879",
+    "prompt": "Question: In what year was Albert Einstein born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_002",
+    "category": "person_birth_year",
+    "subject": "Isaac Newton",
+    "gold_answer": "1642",
+    "prompt": "Question: In what year was Isaac Newton born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_003",
+    "category": "person_birth_year",
+    "subject": "Marie Curie",
+    "gold_answer": "1867",
+    "prompt": "Question: In what year was Marie Curie born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_004",
+    "category": "person_birth_year",
+    "subject": "Nikola Tesla",
+    "gold_answer": "1856",
+    "prompt": "Question: In what year was Nikola Tesla born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_005",
+    "category": "person_birth_year",
+    "subject": "Leonardo da Vinci",
+    "gold_answer": "1452",
+    "prompt": "Question: In what year was Leonardo da Vinci born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_006",
+    "category": "person_birth_year",
+    "subject": "Galileo Galilei",
+    "gold_answer": "1564",
+    "prompt": "Question: In what year was Galileo Galilei born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_007",
+    "category": "person_birth_year",
+    "subject": "Charles Darwin",
+    "gold_answer": "1809",
+    "prompt": "Question: In what year was Charles Darwin born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_008",
+    "category": "person_birth_year",
+    "subject": "Stephen Hawking",
+    "gold_answer": "1942",
+    "prompt": "Question: In what year was Stephen Hawking born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_009",
+    "category": "person_birth_year",
+    "subject": "Alan Turing",
+    "gold_answer": "1912",
+    "prompt": "Question: In what year was Alan Turing born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_010",
+    "category": "person_birth_year",
+    "subject": "Ada Lovelace",
+    "gold_answer": "1815",
+    "prompt": "Question: In what year was Ada Lovelace born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_011",
+    "category": "person_birth_year",
+    "subject": "Wolfgang Amadeus Mozart",
+    "gold_answer": "1756",
+    "prompt": "Question: In what year was Wolfgang Amadeus Mozart born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_012",
+    "category": "person_birth_year",
+    "subject": "Ludwig van Beethoven",
+    "gold_answer": "1770",
+    "prompt": "Question: In what year was Ludwig van Beethoven born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_013",
+    "category": "person_birth_year",
+    "subject": "Frida Kahlo",
+    "gold_answer": "1907",
+    "prompt": "Question: In what year was Frida Kahlo born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_014",
+    "category": "person_birth_year",
+    "subject": "Pablo Picasso",
+    "gold_answer": "1881",
+    "prompt": "Question: In what year was Pablo Picasso born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_015",
+    "category": "person_birth_year",
+    "subject": "Vincent van Gogh",
+    "gold_answer": "1853",
+    "prompt": "Question: In what year was Vincent van Gogh born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_016",
+    "category": "person_birth_year",
+    "subject": "William Shakespeare",
+    "gold_answer": "1564",
+    "prompt": "Question: In what year was William Shakespeare born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_017",
+    "category": "person_birth_year",
+    "subject": "Jane Austen",
+    "gold_answer": "1775",
+    "prompt": "Question: In what year was Jane Austen born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_018",
+    "category": "person_birth_year",
+    "subject": "Mark Twain",
+    "gold_answer": "1835",
+    "prompt": "Question: In what year was Mark Twain born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_019",
+    "category": "person_birth_year",
+    "subject": "George Orwell",
+    "gold_answer": "1903",
+    "prompt": "Question: In what year was George Orwell born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_020",
+    "category": "person_birth_year",
+    "subject": "J.R.R. Tolkien",
+    "gold_answer": "1892",
+    "prompt": "Question: In what year was J.R.R. Tolkien born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_021",
+    "category": "person_birth_year",
+    "subject": "Ernest Hemingway",
+    "gold_answer": "1899",
+    "prompt": "Question: In what year was Ernest Hemingway born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_022",
+    "category": "person_birth_year",
+    "subject": "Barack Obama",
+    "gold_answer": "1961",
+    "prompt": "Question: In what year was Barack Obama born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_023",
+    "category": "person_birth_year",
+    "subject": "Nelson Mandela",
+    "gold_answer": "1918",
+    "prompt": "Question: In what year was Nelson Mandela born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_024",
+    "category": "person_birth_year",
+    "subject": "Martin Luther King Jr.",
+    "gold_answer": "1929",
+    "prompt": "Question: In what year was Martin Luther King Jr. born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_025",
+    "category": "person_birth_year",
+    "subject": "Malcolm X",
+    "gold_answer": "1925",
+    "prompt": "Question: In what year was Malcolm X born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_026",
+    "category": "person_birth_year",
+    "subject": "Mother Teresa",
+    "gold_answer": "1910",
+    "prompt": "Question: In what year was Mother Teresa born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_027",
+    "category": "person_birth_year",
+    "subject": "Princess Diana",
+    "gold_answer": "1961",
+    "prompt": "Question: In what year was Princess Diana born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_028",
+    "category": "person_birth_year",
+    "subject": "Queen Elizabeth II",
+    "gold_answer": "1926",
+    "prompt": "Question: In what year was Queen Elizabeth II born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_029",
+    "category": "person_birth_year",
+    "subject": "Michael Jackson",
+    "gold_answer": "1958",
+    "prompt": "Question: In what year was Michael Jackson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_030",
+    "category": "person_birth_year",
+    "subject": "Elvis Presley",
+    "gold_answer": "1935",
+    "prompt": "Question: In what year was Elvis Presley born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_031",
+    "category": "person_birth_year",
+    "subject": "Whitney Houston",
+    "gold_answer": "1963",
+    "prompt": "Question: In what year was Whitney Houston born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_032",
+    "category": "person_birth_year",
+    "subject": "Beyoncé",
+    "gold_answer": "1981",
+    "prompt": "Question: In what year was Beyoncé born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_033",
+    "category": "person_birth_year",
+    "subject": "Taylor Swift",
+    "gold_answer": "1989",
+    "prompt": "Question: In what year was Taylor Swift born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_034",
+    "category": "person_birth_year",
+    "subject": "Oprah Winfrey",
+    "gold_answer": "1954",
+    "prompt": "Question: In what year was Oprah Winfrey born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_035",
+    "category": "person_birth_year",
+    "subject": "Steve Jobs",
+    "gold_answer": "1955",
+    "prompt": "Question: In what year was Steve Jobs born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_036",
+    "category": "person_birth_year",
+    "subject": "Bill Gates",
+    "gold_answer": "1955",
+    "prompt": "Question: In what year was Bill Gates born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_037",
+    "category": "person_birth_year",
+    "subject": "Jeff Bezos",
+    "gold_answer": "1964",
+    "prompt": "Question: In what year was Jeff Bezos born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_038",
+    "category": "person_birth_year",
+    "subject": "Elon Musk",
+    "gold_answer": "1971",
+    "prompt": "Question: In what year was Elon Musk born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_039",
+    "category": "person_birth_year",
+    "subject": "Sundar Pichai",
+    "gold_answer": "1972",
+    "prompt": "Question: In what year was Sundar Pichai born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_040",
+    "category": "person_birth_year",
+    "subject": "Satya Nadella",
+    "gold_answer": "1967",
+    "prompt": "Question: In what year was Satya Nadella born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_041",
+    "category": "person_birth_year",
+    "subject": "Sergey Brin",
+    "gold_answer": "1973",
+    "prompt": "Question: In what year was Sergey Brin born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_042",
+    "category": "person_birth_year",
+    "subject": "Larry Page",
+    "gold_answer": "1973",
+    "prompt": "Question: In what year was Larry Page born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_043",
+    "category": "person_birth_year",
+    "subject": "Mark Zuckerberg",
+    "gold_answer": "1984",
+    "prompt": "Question: In what year was Mark Zuckerberg born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_044",
+    "category": "person_birth_year",
+    "subject": "Kofi Annan",
+    "gold_answer": "1938",
+    "prompt": "Question: In what year was Kofi Annan born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_045",
+    "category": "person_birth_year",
+    "subject": "Mahatma Gandhi",
+    "gold_answer": "1869",
+    "prompt": "Question: In what year was Mahatma Gandhi born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_046",
+    "category": "person_birth_year",
+    "subject": "Jawaharlal Nehru",
+    "gold_answer": "1889",
+    "prompt": "Question: In what year was Jawaharlal Nehru born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_047",
+    "category": "person_birth_year",
+    "subject": "Indira Gandhi",
+    "gold_answer": "1917",
+    "prompt": "Question: In what year was Indira Gandhi born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_048",
+    "category": "person_birth_year",
+    "subject": "A.P.J. Abdul Kalam",
+    "gold_answer": "1931",
+    "prompt": "Question: In what year was A.P.J. Abdul Kalam born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_049",
+    "category": "person_birth_year",
+    "subject": "Imran Khan",
+    "gold_answer": "1952",
+    "prompt": "Question: In what year was Imran Khan born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_050",
+    "category": "person_birth_year",
+    "subject": "Benazir Bhutto",
+    "gold_answer": "1953",
+    "prompt": "Question: In what year was Benazir Bhutto born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_051",
+    "category": "person_birth_year",
+    "subject": "Allama Iqbal",
+    "gold_answer": "1877",
+    "prompt": "Question: In what year was Allama Iqbal born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_052",
+    "category": "person_birth_year",
+    "subject": "Abdul Sattar Edhi",
+    "gold_answer": "1928",
+    "prompt": "Question: In what year was Abdul Sattar Edhi born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_053",
+    "category": "person_birth_year",
+    "subject": "Cristiano Ronaldo",
+    "gold_answer": "1985",
+    "prompt": "Question: In what year was Cristiano Ronaldo born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_054",
+    "category": "person_birth_year",
+    "subject": "Lionel Messi",
+    "gold_answer": "1987",
+    "prompt": "Question: In what year was Lionel Messi born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_055",
+    "category": "person_birth_year",
+    "subject": "Roger Federer",
+    "gold_answer": "1981",
+    "prompt": "Question: In what year was Roger Federer born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_056",
+    "category": "person_birth_year",
+    "subject": "Serena Williams",
+    "gold_answer": "1981",
+    "prompt": "Question: In what year was Serena Williams born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_057",
+    "category": "person_birth_year",
+    "subject": "LeBron James",
+    "gold_answer": "1984",
+    "prompt": "Question: In what year was LeBron James born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_058",
+    "category": "person_birth_year",
+    "subject": "Michael Jordan",
+    "gold_answer": "1963",
+    "prompt": "Question: In what year was Michael Jordan born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_059",
+    "category": "person_birth_year",
+    "subject": "Tom Hanks",
+    "gold_answer": "1956",
+    "prompt": "Question: In what year was Tom Hanks born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_060",
+    "category": "person_birth_year",
+    "subject": "Morgan Freeman",
+    "gold_answer": "1937",
+    "prompt": "Question: In what year was Morgan Freeman born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_061",
+    "category": "person_birth_year",
+    "subject": "Denzel Washington",
+    "gold_answer": "1954",
+    "prompt": "Question: In what year was Denzel Washington born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_062",
+    "category": "person_birth_year",
+    "subject": "Robert Downey Jr.",
+    "gold_answer": "1965",
+    "prompt": "Question: In what year was Robert Downey Jr. born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_063",
+    "category": "person_birth_year",
+    "subject": "Scarlett Johansson",
+    "gold_answer": "1984",
+    "prompt": "Question: In what year was Scarlett Johansson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_064",
+    "category": "person_birth_year",
+    "subject": "Angelina Jolie",
+    "gold_answer": "1975",
+    "prompt": "Question: In what year was Angelina Jolie born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_065",
+    "category": "person_birth_year",
+    "subject": "Brad Pitt",
+    "gold_answer": "1963",
+    "prompt": "Question: In what year was Brad Pitt born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_066",
+    "category": "person_birth_year",
+    "subject": "Johnny Depp",
+    "gold_answer": "1963",
+    "prompt": "Question: In what year was Johnny Depp born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_067",
+    "category": "person_birth_year",
+    "subject": "Keanu Reeves",
+    "gold_answer": "1964",
+    "prompt": "Question: In what year was Keanu Reeves born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_068",
+    "category": "person_birth_year",
+    "subject": "Jennifer Lawrence",
+    "gold_answer": "1990",
+    "prompt": "Question: In what year was Jennifer Lawrence born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_069",
+    "category": "person_birth_year",
+    "subject": "Emma Watson",
+    "gold_answer": "1990",
+    "prompt": "Question: In what year was Emma Watson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_070",
+    "category": "person_birth_year",
+    "subject": "Chris Evans",
+    "gold_answer": "1981",
+    "prompt": "Question: In what year was Chris Evans born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_071",
+    "category": "person_birth_year",
+    "subject": "Chris Hemsworth",
+    "gold_answer": "1983",
+    "prompt": "Question: In what year was Chris Hemsworth born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_072",
+    "category": "person_birth_year",
+    "subject": "Zayn Malik",
+    "gold_answer": "1993",
+    "prompt": "Question: In what year was Zayn Malik born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_073",
+    "category": "person_birth_year",
+    "subject": "Harry Styles",
+    "gold_answer": "1994",
+    "prompt": "Question: In what year was Harry Styles born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_074",
+    "category": "person_birth_year",
+    "subject": "Adele",
+    "gold_answer": "1988",
+    "prompt": "Question: In what year was Adele born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_075",
+    "category": "person_birth_year",
+    "subject": "Rihanna",
+    "gold_answer": "1988",
+    "prompt": "Question: In what year was Rihanna born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_076",
+    "category": "person_birth_year",
+    "subject": "Kendrick Lamar",
+    "gold_answer": "1987",
+    "prompt": "Question: In what year was Kendrick Lamar born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_077",
+    "category": "person_birth_year",
+    "subject": "Drake",
+    "gold_answer": "1986",
+    "prompt": "Question: In what year was Drake born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_078",
+    "category": "person_birth_year",
+    "subject": "The Weeknd",
+    "gold_answer": "1990",
+    "prompt": "Question: In what year was The Weeknd born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_079",
+    "category": "person_birth_year",
+    "subject": "Post Malone",
+    "gold_answer": "1995",
+    "prompt": "Question: In what year was Post Malone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_080",
+    "category": "person_birth_year",
+    "subject": "Justin Bieber",
+    "gold_answer": "1994",
+    "prompt": "Question: In what year was Justin Bieber born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_081",
+    "category": "person_birth_year",
+    "subject": "Selena Gomez",
+    "gold_answer": "1992",
+    "prompt": "Question: In what year was Selena Gomez born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_082",
+    "category": "person_birth_year",
+    "subject": "Shakira",
+    "gold_answer": "1977",
+    "prompt": "Question: In what year was Shakira born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_083",
+    "category": "person_birth_year",
+    "subject": "Malala Yousafzai",
+    "gold_answer": "1997",
+    "prompt": "Question: In what year was Malala Yousafzai born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_084",
+    "category": "person_birth_year",
+    "subject": "Greta Thunberg",
+    "gold_answer": "2003",
+    "prompt": "Question: In what year was Greta Thunberg born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_085",
+    "category": "person_birth_year",
+    "subject": "Emma Stone",
+    "gold_answer": "1988",
+    "prompt": "Question: In what year was Emma Stone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_086",
+    "category": "person_birth_year",
+    "subject": "Gal Gadot",
+    "gold_answer": "1985",
+    "prompt": "Question: In what year was Gal Gadot born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_087",
+    "category": "person_birth_year",
+    "subject": "Jason Momoa",
+    "gold_answer": "1979",
+    "prompt": "Question: In what year was Jason Momoa born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_088",
+    "category": "person_birth_year",
+    "subject": "Dwayne Johnson",
+    "gold_answer": "1972",
+    "prompt": "Question: In what year was Dwayne Johnson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_089",
+    "category": "person_birth_year",
+    "subject": "Samuel L. Jackson",
+    "gold_answer": "1948",
+    "prompt": "Question: In what year was Samuel L. Jackson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_090",
+    "category": "person_birth_year",
+    "subject": "Hugh Jackman",
+    "gold_answer": "1968",
+    "prompt": "Question: In what year was Hugh Jackman born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_091",
+    "category": "person_birth_year",
+    "subject": "Daniel Radcliffe",
+    "gold_answer": "1989",
+    "prompt": "Question: In what year was Daniel Radcliffe born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_092",
+    "category": "person_birth_year",
+    "subject": "Rupert Grint",
+    "gold_answer": "1988",
+    "prompt": "Question: In what year was Rupert Grint born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_093",
+    "category": "person_birth_year",
+    "subject": "Matthew Perry",
+    "gold_answer": "1969",
+    "prompt": "Question: In what year was Matthew Perry born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_094",
+    "category": "person_birth_year",
+    "subject": "Jennifer Aniston",
+    "gold_answer": "1969",
+    "prompt": "Question: In what year was Jennifer Aniston born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_095",
+    "category": "person_birth_year",
+    "subject": "Courteney Cox",
+    "gold_answer": "1964",
+    "prompt": "Question: In what year was Courteney Cox born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_096",
+    "category": "person_birth_year",
+    "subject": "Lisa Kudrow",
+    "gold_answer": "1963",
+    "prompt": "Question: In what year was Lisa Kudrow born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_097",
+    "category": "person_birth_year",
+    "subject": "Prince",
+    "gold_answer": "1958",
+    "prompt": "Question: In what year was Prince born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_098",
+    "category": "person_birth_year",
+    "subject": "Freddie Mercury",
+    "gold_answer": "1946",
+    "prompt": "Question: In what year was Freddie Mercury born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_099",
+    "category": "person_birth_year",
+    "subject": "Bob Marley",
+    "gold_answer": "1945",
+    "prompt": "Question: In what year was Bob Marley born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_year_100",
+    "category": "person_birth_year",
+    "subject": "David Bowie",
+    "gold_answer": "1947",
+    "prompt": "Question: In what year was David Bowie born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_001",
+    "category": "person_birth_place",
+    "subject": "Albert Einstein",
+    "gold_answer": "Ulm, Germany",
+    "prompt": "Question: Where was Albert Einstein born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_002",
+    "category": "person_birth_place",
+    "subject": "Isaac Newton",
+    "gold_answer": "Woolsthorpe, England",
+    "prompt": "Question: Where was Isaac Newton born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_003",
+    "category": "person_birth_place",
+    "subject": "Marie Curie",
+    "gold_answer": "Warsaw, Poland",
+    "prompt": "Question: Where was Marie Curie born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_004",
+    "category": "person_birth_place",
+    "subject": "Nikola Tesla",
+    "gold_answer": "Smiljan, Croatia",
+    "prompt": "Question: Where was Nikola Tesla born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_005",
+    "category": "person_birth_place",
+    "subject": "Leonardo da Vinci",
+    "gold_answer": "Vinci, Italy",
+    "prompt": "Question: Where was Leonardo da Vinci born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_006",
+    "category": "person_birth_place",
+    "subject": "Charles Darwin",
+    "gold_answer": "Shrewsbury, England",
+    "prompt": "Question: Where was Charles Darwin born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_007",
+    "category": "person_birth_place",
+    "subject": "Stephen Hawking",
+    "gold_answer": "Oxford, England",
+    "prompt": "Question: Where was Stephen Hawking born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_008",
+    "category": "person_birth_place",
+    "subject": "Alan Turing",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where was Alan Turing born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_009",
+    "category": "person_birth_place",
+    "subject": "Ada Lovelace",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where was Ada Lovelace born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_010",
+    "category": "person_birth_place",
+    "subject": "Galileo Galilei",
+    "gold_answer": "Pisa, Italy",
+    "prompt": "Question: Where was Galileo Galilei born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_011",
+    "category": "person_birth_place",
+    "subject": "Wolfgang Amadeus Mozart",
+    "gold_answer": "Salzburg, Austria",
+    "prompt": "Question: Where was Wolfgang Amadeus Mozart born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_012",
+    "category": "person_birth_place",
+    "subject": "Vincent van Gogh",
+    "gold_answer": "Zundert, Netherlands",
+    "prompt": "Question: Where was Vincent van Gogh born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_013",
+    "category": "person_birth_place",
+    "subject": "Pablo Picasso",
+    "gold_answer": "Málaga, Spain",
+    "prompt": "Question: Where was Pablo Picasso born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_014",
+    "category": "person_birth_place",
+    "subject": "Frida Kahlo",
+    "gold_answer": "Coyoacán, Mexico",
+    "prompt": "Question: Where was Frida Kahlo born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_015",
+    "category": "person_birth_place",
+    "subject": "William Shakespeare",
+    "gold_answer": "Stratford-upon-Avon, England",
+    "prompt": "Question: Where was William Shakespeare born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_016",
+    "category": "person_birth_place",
+    "subject": "Jane Austen",
+    "gold_answer": "Steventon, England",
+    "prompt": "Question: Where was Jane Austen born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_017",
+    "category": "person_birth_place",
+    "subject": "Mark Twain",
+    "gold_answer": "Florida, Missouri, USA",
+    "prompt": "Question: Where was Mark Twain born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_018",
+    "category": "person_birth_place",
+    "subject": "George Orwell",
+    "gold_answer": "Motihari, India",
+    "prompt": "Question: Where was George Orwell born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_019",
+    "category": "person_birth_place",
+    "subject": "J.R.R. Tolkien",
+    "gold_answer": "Bloemfontein, South Africa",
+    "prompt": "Question: Where was J.R.R. Tolkien born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_020",
+    "category": "person_birth_place",
+    "subject": "Ernest Hemingway",
+    "gold_answer": "Oak Park, Illinois",
+    "prompt": "Question: Where was Ernest Hemingway born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_021",
+    "category": "person_birth_place",
+    "subject": "Barack Obama",
+    "gold_answer": "Honolulu, Hawaii",
+    "prompt": "Question: Where was Barack Obama born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_022",
+    "category": "person_birth_place",
+    "subject": "Nelson Mandela",
+    "gold_answer": "Mvezo, South Africa",
+    "prompt": "Question: Where was Nelson Mandela born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_023",
+    "category": "person_birth_place",
+    "subject": "Martin Luther King Jr.",
+    "gold_answer": "Atlanta, Georgia",
+    "prompt": "Question: Where was Martin Luther King Jr. born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_024",
+    "category": "person_birth_place",
+    "subject": "Malcolm X",
+    "gold_answer": "Omaha, Nebraska",
+    "prompt": "Question: Where was Malcolm X born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_025",
+    "category": "person_birth_place",
+    "subject": "Mother Teresa",
+    "gold_answer": "Skopje, North Macedonia",
+    "prompt": "Question: Where was Mother Teresa born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_026",
+    "category": "person_birth_place",
+    "subject": "Princess Diana",
+    "gold_answer": "Sandringham, England",
+    "prompt": "Question: Where was Princess Diana born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_027",
+    "category": "person_birth_place",
+    "subject": "Queen Elizabeth II",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where was Queen Elizabeth II born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_028",
+    "category": "person_birth_place",
+    "subject": "Michael Jackson",
+    "gold_answer": "Gary, Indiana",
+    "prompt": "Question: Where was Michael Jackson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_029",
+    "category": "person_birth_place",
+    "subject": "Elvis Presley",
+    "gold_answer": "Tupelo, Mississippi",
+    "prompt": "Question: Where was Elvis Presley born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_030",
+    "category": "person_birth_place",
+    "subject": "Whitney Houston",
+    "gold_answer": "Newark, New Jersey",
+    "prompt": "Question: Where was Whitney Houston born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_031",
+    "category": "person_birth_place",
+    "subject": "Beyoncé",
+    "gold_answer": "Houston, Texas",
+    "prompt": "Question: Where was Beyoncé born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_032",
+    "category": "person_birth_place",
+    "subject": "Taylor Swift",
+    "gold_answer": "Reading, Pennsylvania",
+    "prompt": "Question: Where was Taylor Swift born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_033",
+    "category": "person_birth_place",
+    "subject": "Oprah Winfrey",
+    "gold_answer": "Kosciusko, Mississippi",
+    "prompt": "Question: Where was Oprah Winfrey born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_034",
+    "category": "person_birth_place",
+    "subject": "Steve Jobs",
+    "gold_answer": "San Francisco, California",
+    "prompt": "Question: Where was Steve Jobs born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_035",
+    "category": "person_birth_place",
+    "subject": "Bill Gates",
+    "gold_answer": "Seattle, Washington",
+    "prompt": "Question: Where was Bill Gates born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_036",
+    "category": "person_birth_place",
+    "subject": "Jeff Bezos",
+    "gold_answer": "Albuquerque, New Mexico",
+    "prompt": "Question: Where was Jeff Bezos born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_037",
+    "category": "person_birth_place",
+    "subject": "Elon Musk",
+    "gold_answer": "Pretoria, South Africa",
+    "prompt": "Question: Where was Elon Musk born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_038",
+    "category": "person_birth_place",
+    "subject": "Sergey Brin",
+    "gold_answer": "Moscow, Russia",
+    "prompt": "Question: Where was Sergey Brin born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_039",
+    "category": "person_birth_place",
+    "subject": "Larry Page",
+    "gold_answer": "Lansing, Michigan",
+    "prompt": "Question: Where was Larry Page born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_040",
+    "category": "person_birth_place",
+    "subject": "Mark Zuckerberg",
+    "gold_answer": "White Plains, New York",
+    "prompt": "Question: Where was Mark Zuckerberg born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_041",
+    "category": "person_birth_place",
+    "subject": "Kofi Annan",
+    "gold_answer": "Kumasi, Ghana",
+    "prompt": "Question: Where was Kofi Annan born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_042",
+    "category": "person_birth_place",
+    "subject": "Mahatma Gandhi",
+    "gold_answer": "Porbandar, India",
+    "prompt": "Question: Where was Mahatma Gandhi born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_043",
+    "category": "person_birth_place",
+    "subject": "Indira Gandhi",
+    "gold_answer": "Allahabad, India",
+    "prompt": "Question: Where was Indira Gandhi born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_044",
+    "category": "person_birth_place",
+    "subject": "A.P.J. Abdul Kalam",
+    "gold_answer": "Rameswaram, India",
+    "prompt": "Question: Where was A.P.J. Abdul Kalam born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_045",
+    "category": "person_birth_place",
+    "subject": "Imran Khan",
+    "gold_answer": "Lahore, Pakistan",
+    "prompt": "Question: Where was Imran Khan born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_046",
+    "category": "person_birth_place",
+    "subject": "Benazir Bhutto",
+    "gold_answer": "Karachi, Pakistan",
+    "prompt": "Question: Where was Benazir Bhutto born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_047",
+    "category": "person_birth_place",
+    "subject": "Allama Iqbal",
+    "gold_answer": "Sialkot, Pakistan",
+    "prompt": "Question: Where was Allama Iqbal born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_048",
+    "category": "person_birth_place",
+    "subject": "Cristiano Ronaldo",
+    "gold_answer": "Funchal, Madeira",
+    "prompt": "Question: Where was Cristiano Ronaldo born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_049",
+    "category": "person_birth_place",
+    "subject": "Lionel Messi",
+    "gold_answer": "Rosario, Argentina",
+    "prompt": "Question: Where was Lionel Messi born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_050",
+    "category": "person_birth_place",
+    "subject": "Roger Federer",
+    "gold_answer": "Basel, Switzerland",
+    "prompt": "Question: Where was Roger Federer born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_051",
+    "category": "person_birth_place",
+    "subject": "Serena Williams",
+    "gold_answer": "Saginaw, Michigan",
+    "prompt": "Question: Where was Serena Williams born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_052",
+    "category": "person_birth_place",
+    "subject": "LeBron James",
+    "gold_answer": "Akron, Ohio",
+    "prompt": "Question: Where was LeBron James born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_053",
+    "category": "person_birth_place",
+    "subject": "Michael Jordan",
+    "gold_answer": "Brooklyn, New York",
+    "prompt": "Question: Where was Michael Jordan born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_054",
+    "category": "person_birth_place",
+    "subject": "Tom Hanks",
+    "gold_answer": "Concord, California",
+    "prompt": "Question: Where was Tom Hanks born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_055",
+    "category": "person_birth_place",
+    "subject": "Morgan Freeman",
+    "gold_answer": "Memphis, Tennessee",
+    "prompt": "Question: Where was Morgan Freeman born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_056",
+    "category": "person_birth_place",
+    "subject": "Denzel Washington",
+    "gold_answer": "Mount Vernon, New York",
+    "prompt": "Question: Where was Denzel Washington born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_057",
+    "category": "person_birth_place",
+    "subject": "Robert Downey Jr.",
+    "gold_answer": "New York City, New York",
+    "prompt": "Question: Where was Robert Downey Jr. born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_058",
+    "category": "person_birth_place",
+    "subject": "Scarlett Johansson",
+    "gold_answer": "New York City, New York",
+    "prompt": "Question: Where was Scarlett Johansson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_059",
+    "category": "person_birth_place",
+    "subject": "Angelina Jolie",
+    "gold_answer": "Los Angeles, California",
+    "prompt": "Question: Where was Angelina Jolie born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_060",
+    "category": "person_birth_place",
+    "subject": "Brad Pitt",
+    "gold_answer": "Shawnee, Oklahoma",
+    "prompt": "Question: Where was Brad Pitt born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_061",
+    "category": "person_birth_place",
+    "subject": "Johnny Depp",
+    "gold_answer": "Owensboro, Kentucky",
+    "prompt": "Question: Where was Johnny Depp born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_062",
+    "category": "person_birth_place",
+    "subject": "Keanu Reeves",
+    "gold_answer": "Beirut, Lebanon",
+    "prompt": "Question: Where was Keanu Reeves born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_063",
+    "category": "person_birth_place",
+    "subject": "Jennifer Lawrence",
+    "gold_answer": "Indian Hills, Kentucky",
+    "prompt": "Question: Where was Jennifer Lawrence born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_064",
+    "category": "person_birth_place",
+    "subject": "Emma Watson",
+    "gold_answer": "Paris, France",
+    "prompt": "Question: Where was Emma Watson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_065",
+    "category": "person_birth_place",
+    "subject": "Chris Evans",
+    "gold_answer": "Boston, Massachusetts",
+    "prompt": "Question: Where was Chris Evans born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_066",
+    "category": "person_birth_place",
+    "subject": "Chris Hemsworth",
+    "gold_answer": "Melbourne, Australia",
+    "prompt": "Question: Where was Chris Hemsworth born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_067",
+    "category": "person_birth_place",
+    "subject": "Adele",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where was Adele born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_068",
+    "category": "person_birth_place",
+    "subject": "Rihanna",
+    "gold_answer": "Saint Michael, Barbados",
+    "prompt": "Question: Where was Rihanna born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_069",
+    "category": "person_birth_place",
+    "subject": "Shakira",
+    "gold_answer": "Barranquilla, Colombia",
+    "prompt": "Question: Where was Shakira born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_070",
+    "category": "person_birth_place",
+    "subject": "Malala Yousafzai",
+    "gold_answer": "Mingora, Pakistan",
+    "prompt": "Question: Where was Malala Yousafzai born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_071",
+    "category": "person_birth_place",
+    "subject": "Greta Thunberg",
+    "gold_answer": "Stockholm, Sweden",
+    "prompt": "Question: Where was Greta Thunberg born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_072",
+    "category": "person_birth_place",
+    "subject": "Emma Stone",
+    "gold_answer": "Scottsdale, Arizona",
+    "prompt": "Question: Where was Emma Stone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_073",
+    "category": "person_birth_place",
+    "subject": "Gal Gadot",
+    "gold_answer": "Petah Tikva, Israel",
+    "prompt": "Question: Where was Gal Gadot born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_074",
+    "category": "person_birth_place",
+    "subject": "Jason Momoa",
+    "gold_answer": "Honolulu, Hawaii",
+    "prompt": "Question: Where was Jason Momoa born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_075",
+    "category": "person_birth_place",
+    "subject": "Dwayne Johnson",
+    "gold_answer": "Hayward, California",
+    "prompt": "Question: Where was Dwayne Johnson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_076",
+    "category": "person_birth_place",
+    "subject": "Samuel L. Jackson",
+    "gold_answer": "Washington, D.C.",
+    "prompt": "Question: Where was Samuel L. Jackson born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_077",
+    "category": "person_birth_place",
+    "subject": "Hugh Jackman",
+    "gold_answer": "Sydney, Australia",
+    "prompt": "Question: Where was Hugh Jackman born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_078",
+    "category": "person_birth_place",
+    "subject": "Daniel Radcliffe",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where was Daniel Radcliffe born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_079",
+    "category": "person_birth_place",
+    "subject": "Matthew Perry",
+    "gold_answer": "Williamstown, Massachusetts",
+    "prompt": "Question: Where was Matthew Perry born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_080",
+    "category": "person_birth_place",
+    "subject": "Jennifer Aniston",
+    "gold_answer": "Los Angeles, California",
+    "prompt": "Question: Where was Jennifer Aniston born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_081",
+    "category": "person_birth_place",
+    "subject": "Selena Gomez",
+    "gold_answer": "Grand Prairie, Texas",
+    "prompt": "Question: Where was Selena Gomez born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_082",
+    "category": "person_birth_place",
+    "subject": "Justin Bieber",
+    "gold_answer": "London, Ontario",
+    "prompt": "Question: Where was Justin Bieber born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_083",
+    "category": "person_birth_place",
+    "subject": "Drake",
+    "gold_answer": "Toronto, Canada",
+    "prompt": "Question: Where was Drake born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_084",
+    "category": "person_birth_place",
+    "subject": "Post Malone",
+    "gold_answer": "Syracuse, New York",
+    "prompt": "Question: Where was Post Malone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_085",
+    "category": "person_birth_place",
+    "subject": "The Weeknd",
+    "gold_answer": "Toronto, Canada",
+    "prompt": "Question: Where was The Weeknd born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_086",
+    "category": "person_birth_place",
+    "subject": "Harry Styles",
+    "gold_answer": "Redditch, England",
+    "prompt": "Question: Where was Harry Styles born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_087",
+    "category": "person_birth_place",
+    "subject": "Zayn Malik",
+    "gold_answer": "Bradford, England",
+    "prompt": "Question: Where was Zayn Malik born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_088",
+    "category": "person_birth_place",
+    "subject": "Aretha Franklin",
+    "gold_answer": "Memphis, Tennessee",
+    "prompt": "Question: Where was Aretha Franklin born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_089",
+    "category": "person_birth_place",
+    "subject": "Bob Marley",
+    "gold_answer": "Nine Mile, Jamaica",
+    "prompt": "Question: Where was Bob Marley born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_090",
+    "category": "person_birth_place",
+    "subject": "Freddie Mercury",
+    "gold_answer": "Stone Town, Zanzibar",
+    "prompt": "Question: Where was Freddie Mercury born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_091",
+    "category": "person_birth_place",
+    "subject": "David Bowie",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where was David Bowie born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_092",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_093",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_094",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_095",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_096",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_097",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_098",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_099",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "person_birth_place_100",
+    "category": "person_birth_place",
+    "subject": "Nina Simone",
+    "gold_answer": "Tryon, North Carolina",
+    "prompt": "Question: Where was Nina Simone born?\nAnswer:"
+  },
+  {
+    "id": "event_location_001",
+    "category": "event_location",
+    "subject": "Moon Landing 1969",
+    "gold_answer": "Moon's Sea of Tranquility",
+    "prompt": "Question: Where did Moon Landing happen in 1969?\nAnswer:"
+  },
+  {
+    "id": "event_location_002",
+    "category": "event_location",
+    "subject": "Fall of Berlin Wall 1989",
+    "gold_answer": "Berlin, Germany",
+    "prompt": "Question: Where did Fall of Berlin Wall happen in 1989?\nAnswer:"
+  },
+  {
+    "id": "event_location_003",
+    "category": "event_location",
+    "subject": "Assassination of JFK 1963",
+    "gold_answer": "Dallas, Texas",
+    "prompt": "Question: Where did Assassination of JFK happen in 1963?\nAnswer:"
+  },
+  {
+    "id": "event_location_004",
+    "category": "event_location",
+    "subject": "Chernobyl Disaster 1986",
+    "gold_answer": "Pripyat, Ukraine",
+    "prompt": "Question: Where did Chernobyl Disaster happen in 1986?\nAnswer:"
+  },
+  {
+    "id": "event_location_005",
+    "category": "event_location",
+    "subject": "9/11 Attacks 2001",
+    "gold_answer": "New York City, USA",
+    "prompt": "Question: Where did 9/11 Attacks happen in 2001?\nAnswer:"
+  },
+  {
+    "id": "event_location_006",
+    "category": "event_location",
+    "subject": "Boston Tea Party 1773",
+    "gold_answer": "Boston Harbor, USA",
+    "prompt": "Question: Where did Boston Tea Party happen in 1773?\nAnswer:"
+  },
+  {
+    "id": "event_location_007",
+    "category": "event_location",
+    "subject": "French Revolution 1789",
+    "gold_answer": "Paris, France",
+    "prompt": "Question: Where did French Revolution happen in 1789?\nAnswer:"
+  },
+  {
+    "id": "event_location_008",
+    "category": "event_location",
+    "subject": "American Civil War Start 1861",
+    "gold_answer": "Fort Sumter, South Carolina",
+    "prompt": "Question: Where did American Civil War Start happen in 1861?\nAnswer:"
+  },
+  {
+    "id": "event_location_009",
+    "category": "event_location",
+    "subject": "First iPhone Release 2007",
+    "gold_answer": "San Francisco, USA",
+    "prompt": "Question: Where did First iPhone Release happen in 2007?\nAnswer:"
+  },
+  {
+    "id": "event_location_010",
+    "category": "event_location",
+    "subject": "Wright Brothers Flight 1903",
+    "gold_answer": "Kitty Hawk, North Carolina",
+    "prompt": "Question: Where did Wright Brothers Flight happen in 1903?\nAnswer:"
+  },
+  {
+    "id": "event_location_011",
+    "category": "event_location",
+    "subject": "Titanic Sinking 1912",
+    "gold_answer": "North Atlantic Ocean",
+    "prompt": "Question: Where did Titanic Sinking happen in 1912?\nAnswer:"
+  },
+  {
+    "id": "event_location_012",
+    "category": "event_location",
+    "subject": "Pearl Harbor Attack 1941",
+    "gold_answer": "Pearl Harbor, Hawaii",
+    "prompt": "Question: Where did Pearl Harbor Attack happen in 1941?\nAnswer:"
+  },
+  {
+    "id": "event_location_013",
+    "category": "event_location",
+    "subject": "Dropping of First Atomic Bomb 1945",
+    "gold_answer": "Hiroshima, Japan",
+    "prompt": "Question: Where did Dropping of First Atomic Bomb happen in 1945?\nAnswer:"
+  },
+  {
+    "id": "event_location_014",
+    "category": "event_location",
+    "subject": "Second Atomic Bomb 1945",
+    "gold_answer": "Nagasaki, Japan",
+    "prompt": "Question: Where did Second Atomic Bomb happen in 1945?\nAnswer:"
+  },
+  {
+    "id": "event_location_015",
+    "category": "event_location",
+    "subject": "Coronation of Queen Elizabeth II 1953",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where did Coronation of Queen Elizabeth II happen in 1953?\nAnswer:"
+  },
+  {
+    "id": "event_location_016",
+    "category": "event_location",
+    "subject": "India Independence 1947",
+    "gold_answer": "New Delhi, India",
+    "prompt": "Question: Where did India Independence happen in 1947?\nAnswer:"
+  },
+  {
+    "id": "event_location_017",
+    "category": "event_location",
+    "subject": "Pakistan Independence 1947",
+    "gold_answer": "Karachi, Pakistan",
+    "prompt": "Question: Where did Pakistan Independence happen in 1947?\nAnswer:"
+  },
+  {
+    "id": "event_location_018",
+    "category": "event_location",
+    "subject": "First Man in Space 1961",
+    "gold_answer": "Baikonur Cosmodrome, Kazakhstan",
+    "prompt": "Question: Where did First Man in Space happen in 1961?\nAnswer:"
+  },
+  {
+    "id": "event_location_019",
+    "category": "event_location",
+    "subject": "Apollo 13 Mission 1970",
+    "gold_answer": "Pacific Ocean (splashdown)",
+    "prompt": "Question: Where did Apollo 13 Mission happen in 1970?\nAnswer:"
+  },
+  {
+    "id": "event_location_020",
+    "category": "event_location",
+    "subject": "Fukushima Disaster 2011",
+    "gold_answer": "Fukushima, Japan",
+    "prompt": "Question: Where did Fukushima Disaster happen in 2011?\nAnswer:"
+  },
+  {
+    "id": "event_location_021",
+    "category": "event_location",
+    "subject": "Brexit Referendum 2016",
+    "gold_answer": "United Kingdom",
+    "prompt": "Question: Where did Brexit Referendum happen in 2016?\nAnswer:"
+  },
+  {
+    "id": "event_location_022",
+    "category": "event_location",
+    "subject": "Nelson Mandela's Release 1990",
+    "gold_answer": "Cape Town, South Africa",
+    "prompt": "Question: Where did Nelson Mandela's Release happen in 1990?\nAnswer:"
+  },
+  {
+    "id": "event_location_023",
+    "category": "event_location",
+    "subject": "Live Aid Concert 1985",
+    "gold_answer": "London & Philadelphia",
+    "prompt": "Question: Where did Live Aid Concert happen in 1985?\nAnswer:"
+  },
+  {
+    "id": "event_location_024",
+    "category": "event_location",
+    "subject": "COVID-19 First Case 2019",
+    "gold_answer": "Wuhan, China",
+    "prompt": "Question: Where did COVID-19 First Case happen in 2019?\nAnswer:"
+  },
+  {
+    "id": "event_location_025",
+    "category": "event_location",
+    "subject": "Suez Canal Blockage 2021",
+    "gold_answer": "Suez Canal, Egypt",
+    "prompt": "Question: Where did Suez Canal Blockage happen in 2021?\nAnswer:"
+  },
+  {
+    "id": "event_location_026",
+    "category": "event_location",
+    "subject": "Black Lives Matter Protests 2020",
+    "gold_answer": "Minneapolis, USA",
+    "prompt": "Question: Where did Black Lives Matter Protests happen in 2020?\nAnswer:"
+  },
+  {
+    "id": "event_location_027",
+    "category": "event_location",
+    "subject": "Mars Rover Perseverance Landing 2021",
+    "gold_answer": "Jezero Crater, Mars",
+    "prompt": "Question: Where did Mars Rover Perseverance Landing happen in 2021?\nAnswer:"
+  },
+  {
+    "id": "event_location_028",
+    "category": "event_location",
+    "subject": "UN Formation 1945",
+    "gold_answer": "San Francisco, USA",
+    "prompt": "Question: Where did UN Formation happen in 1945?\nAnswer:"
+  },
+  {
+    "id": "event_location_029",
+    "category": "event_location",
+    "subject": "First Modern Olympics 1896",
+    "gold_answer": "Athens, Greece",
+    "prompt": "Question: Where did First Modern Olympics happen in 1896?\nAnswer:"
+  },
+  {
+    "id": "event_location_030",
+    "category": "event_location",
+    "subject": "World War I Start 1914",
+    "gold_answer": "Sarajevo, Bosnia",
+    "prompt": "Question: Where did World War I Start happen in 1914?\nAnswer:"
+  },
+  {
+    "id": "event_location_031",
+    "category": "event_location",
+    "subject": "World War II Start 1939",
+    "gold_answer": "Poland",
+    "prompt": "Question: Where did World War II Start happen in 1939?\nAnswer:"
+  },
+  {
+    "id": "event_location_032",
+    "category": "event_location",
+    "subject": "Berlin Airlift 1948",
+    "gold_answer": "Berlin, Germany",
+    "prompt": "Question: Where did Berlin Airlift happen in 1948?\nAnswer:"
+  },
+  {
+    "id": "event_location_033",
+    "category": "event_location",
+    "subject": "Korean War Start 1950",
+    "gold_answer": "Korean Peninsula",
+    "prompt": "Question: Where did Korean War Start happen in 1950?\nAnswer:"
+  },
+  {
+    "id": "event_location_034",
+    "category": "event_location",
+    "subject": "Vietnam War Start 1955",
+    "gold_answer": "Vietnam",
+    "prompt": "Question: Where did Vietnam War Start happen in 1955?\nAnswer:"
+  },
+  {
+    "id": "event_location_035",
+    "category": "event_location",
+    "subject": "Great Fire of London 1666",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where did Great Fire of London happen in 1666?\nAnswer:"
+  },
+  {
+    "id": "event_location_036",
+    "category": "event_location",
+    "subject": "Great Chicago Fire 1871",
+    "gold_answer": "Chicago, Illinois",
+    "prompt": "Question: Where did Great Chicago Fire happen in 1871?\nAnswer:"
+  },
+  {
+    "id": "event_location_037",
+    "category": "event_location",
+    "subject": "Nepal Earthquake 2015",
+    "gold_answer": "Kathmandu Valley, Nepal",
+    "prompt": "Question: Where did Nepal Earthquake happen in 2015?\nAnswer:"
+  },
+  {
+    "id": "event_location_038",
+    "category": "event_location",
+    "subject": "Haiti Earthquake 2010",
+    "gold_answer": "Port-au-Prince, Haiti",
+    "prompt": "Question: Where did Haiti Earthquake happen in 2010?\nAnswer:"
+  },
+  {
+    "id": "event_location_039",
+    "category": "event_location",
+    "subject": "Indian Ocean Tsunami 2004",
+    "gold_answer": "Sumatra Coast",
+    "prompt": "Question: Where did Indian Ocean Tsunami happen in 2004?\nAnswer:"
+  },
+  {
+    "id": "event_location_040",
+    "category": "event_location",
+    "subject": "Mt. Vesuvius Eruption 79 AD",
+    "gold_answer": "Pompeii, Italy",
+    "prompt": "Question: Where did Mt. Vesuvius Eruption happen in 79 AD?\nAnswer:"
+  },
+  {
+    "id": "event_location_041",
+    "category": "event_location",
+    "subject": "Roswell UFO Incident 1947",
+    "gold_answer": "Roswell, New Mexico",
+    "prompt": "Question: Where did Roswell UFO Incident happen in 1947?\nAnswer:"
+  },
+  {
+    "id": "event_location_042",
+    "category": "event_location",
+    "subject": "Discovery of DNA Structure 1953",
+    "gold_answer": "Cambridge University, UK",
+    "prompt": "Question: Where did Discovery of DNA Structure happen in 1953?\nAnswer:"
+  },
+  {
+    "id": "event_location_043",
+    "category": "event_location",
+    "subject": "Signing of Magna Carta 1215",
+    "gold_answer": "Runnymede, England",
+    "prompt": "Question: Where did Signing of Magna Carta happen in 1215?\nAnswer:"
+  },
+  {
+    "id": "event_location_044",
+    "category": "event_location",
+    "subject": "Columbus Reaches America 1492",
+    "gold_answer": "San Salvador Island",
+    "prompt": "Question: Where did Columbus Reaches America happen in 1492?\nAnswer:"
+  },
+  {
+    "id": "event_location_045",
+    "category": "event_location",
+    "subject": "First Steam Engine Patent 1698",
+    "gold_answer": "England",
+    "prompt": "Question: Where did First Steam Engine Patent happen in 1698?\nAnswer:"
+  },
+  {
+    "id": "event_location_046",
+    "category": "event_location",
+    "subject": "Martin Luther’s 95 Theses 1517",
+    "gold_answer": "Wittenberg, Germany",
+    "prompt": "Question: Where did Martin Luther’s 95 Theses happen in 1517?\nAnswer:"
+  },
+  {
+    "id": "event_location_047",
+    "category": "event_location",
+    "subject": "Spanish Flu Start 1918",
+    "gold_answer": "Kansas, USA",
+    "prompt": "Question: Where did Spanish Flu Start happen in 1918?\nAnswer:"
+  },
+  {
+    "id": "event_location_048",
+    "category": "event_location",
+    "subject": "Apollo–Soyuz Mission 1975",
+    "gold_answer": "Low Earth Orbit",
+    "prompt": "Question: Where did Apollo–Soyuz Mission happen in 1975?\nAnswer:"
+  },
+  {
+    "id": "event_location_049",
+    "category": "event_location",
+    "subject": "Amazon Founded 1994",
+    "gold_answer": "Seattle, USA",
+    "prompt": "Question: Where did Amazon Founded happen in 1994?\nAnswer:"
+  },
+  {
+    "id": "event_location_050",
+    "category": "event_location",
+    "subject": "Google Founded 1998",
+    "gold_answer": "Menlo Park, USA",
+    "prompt": "Question: Where did Google Founded happen in 1998?\nAnswer:"
+  },
+  {
+    "id": "event_location_051",
+    "category": "event_location",
+    "subject": "Facebook Founded 2004",
+    "gold_answer": "Cambridge, Massachusetts",
+    "prompt": "Question: Where did Facebook Founded happen in 2004?\nAnswer:"
+  },
+  {
+    "id": "event_location_052",
+    "category": "event_location",
+    "subject": "YouTube Founded 2005",
+    "gold_answer": "San Mateo, California",
+    "prompt": "Question: Where did YouTube Founded happen in 2005?\nAnswer:"
+  },
+  {
+    "id": "event_location_053",
+    "category": "event_location",
+    "subject": "Nintendo Founded 1889",
+    "gold_answer": "Kyoto, Japan",
+    "prompt": "Question: Where did Nintendo Founded happen in 1889?\nAnswer:"
+  },
+  {
+    "id": "event_location_054",
+    "category": "event_location",
+    "subject": "First Nobel Prizes 1901",
+    "gold_answer": "Stockholm, Sweden",
+    "prompt": "Question: Where did First Nobel Prizes happen in 1901?\nAnswer:"
+  },
+  {
+    "id": "event_location_055",
+    "category": "event_location",
+    "subject": "Assassination of Julius Caesar 44 BC",
+    "gold_answer": "Rome, Italy",
+    "prompt": "Question: Where did Assassination of Julius Caesar happen in 44 BC?\nAnswer:"
+  },
+  {
+    "id": "event_location_056",
+    "category": "event_location",
+    "subject": "First Crusade Start 1096",
+    "gold_answer": "Clermont, France",
+    "prompt": "Question: Where did First Crusade Start happen in 1096?\nAnswer:"
+  },
+  {
+    "id": "event_location_057",
+    "category": "event_location",
+    "subject": "Fall of Constantinople 1453",
+    "gold_answer": "Istanbul, Turkey",
+    "prompt": "Question: Where did Fall of Constantinople happen in 1453?\nAnswer:"
+  },
+  {
+    "id": "event_location_058",
+    "category": "event_location",
+    "subject": "Bubonic Plague Black Death 1347",
+    "gold_answer": "Sicily, Italy",
+    "prompt": "Question: Where did Bubonic Plague Black Death happen in 1347?\nAnswer:"
+  },
+  {
+    "id": "event_location_059",
+    "category": "event_location",
+    "subject": "First Printed Bible 1455",
+    "gold_answer": "Mainz, Germany",
+    "prompt": "Question: Where did First Printed Bible happen in 1455?\nAnswer:"
+  },
+  {
+    "id": "event_location_060",
+    "category": "event_location",
+    "subject": "Battle of Waterloo 1815",
+    "gold_answer": "Waterloo, Belgium",
+    "prompt": "Question: Where did Battle of Waterloo happen in 1815?\nAnswer:"
+  },
+  {
+    "id": "event_location_061",
+    "category": "event_location",
+    "subject": "Sinking of Lusitania 1915",
+    "gold_answer": "Irish Sea",
+    "prompt": "Question: Where did Sinking of Lusitania happen in 1915?\nAnswer:"
+  },
+  {
+    "id": "event_location_062",
+    "category": "event_location",
+    "subject": "Signing of US Declaration of Independence 1776",
+    "gold_answer": "Philadelphia, USA",
+    "prompt": "Question: Where did Signing of US Declaration of Independence happen in 1776?\nAnswer:"
+  },
+  {
+    "id": "event_location_063",
+    "category": "event_location",
+    "subject": "First Human Heart Transplant 1967",
+    "gold_answer": "Cape Town, South Africa",
+    "prompt": "Question: Where did First Human Heart Transplant happen in 1967?\nAnswer:"
+  },
+  {
+    "id": "event_location_064",
+    "category": "event_location",
+    "subject": "Birth of Internet 1983",
+    "gold_answer": "ARPANET, USA",
+    "prompt": "Question: Where did Birth of Internet happen in 1983?\nAnswer:"
+  },
+  {
+    "id": "event_location_065",
+    "category": "event_location",
+    "subject": "Launch of Hubble Telescope 1990",
+    "gold_answer": "Low Earth Orbit",
+    "prompt": "Question: Where did Launch of Hubble Telescope happen in 1990?\nAnswer:"
+  },
+  {
+    "id": "event_location_066",
+    "category": "event_location",
+    "subject": "First Email Sent 1971",
+    "gold_answer": "Cambridge, Massachusetts",
+    "prompt": "Question: Where did First Email Sent happen in 1971?\nAnswer:"
+  },
+  {
+    "id": "event_location_067",
+    "category": "event_location",
+    "subject": "First Airplane Hijacking 1931",
+    "gold_answer": "Peru",
+    "prompt": "Question: Where did First Airplane Hijacking happen in 1931?\nAnswer:"
+  },
+  {
+    "id": "event_location_068",
+    "category": "event_location",
+    "subject": "Assassination of Archduke Franz Ferdinand 1914",
+    "gold_answer": "Sarajevo, Bosnia",
+    "prompt": "Question: Where did Assassination of Archduke Franz Ferdinand happen in 1914?\nAnswer:"
+  },
+  {
+    "id": "event_location_069",
+    "category": "event_location",
+    "subject": "Apollo 11 Liftoff 1969",
+    "gold_answer": "Cape Kennedy, Florida",
+    "prompt": "Question: Where did Apollo 11 Liftoff happen in 1969?\nAnswer:"
+  },
+  {
+    "id": "event_location_070",
+    "category": "event_location",
+    "subject": "Gandhi Assassinated 1948",
+    "gold_answer": "New Delhi, India",
+    "prompt": "Question: Where did Gandhi Assassinated happen in 1948?\nAnswer:"
+  },
+  {
+    "id": "event_location_071",
+    "category": "event_location",
+    "subject": "Imran Khan Wins 1992 Cricket World Cup",
+    "gold_answer": "Melbourne, Australia",
+    "prompt": "Question: Where did the event 'Imran Khan Wins 1992 Cricket World Cup' take place?\nAnswer:"
+  },
+  {
+    "id": "event_location_072",
+    "category": "event_location",
+    "subject": "Euro Currency Adoption 1999",
+    "gold_answer": "European Union",
+    "prompt": "Question: Where did Euro Currency Adoption happen in 1999?\nAnswer:"
+  },
+  {
+    "id": "event_location_073",
+    "category": "event_location",
+    "subject": "Hong Kong Handover 1997",
+    "gold_answer": "Hong Kong",
+    "prompt": "Question: Where did Hong Kong Handover happen in 1997?\nAnswer:"
+  },
+  {
+    "id": "event_location_074",
+    "category": "event_location",
+    "subject": "Women's Suffrage in US 1920",
+    "gold_answer": "Washington, D.C.",
+    "prompt": "Question: Where did Women's Suffrage in US happen in 1920?\nAnswer:"
+  },
+  {
+    "id": "event_location_075",
+    "category": "event_location",
+    "subject": "Fall of Saddam Hussein 2003",
+    "gold_answer": "Baghdad, Iraq",
+    "prompt": "Question: Where did Fall of Saddam Hussein happen in 2003?\nAnswer:"
+  },
+  {
+    "id": "event_location_076",
+    "category": "event_location",
+    "subject": "Discovery of Penicillin 1928",
+    "gold_answer": "London, England",
+    "prompt": "Question: Where did Discovery of Penicillin happen in 1928?\nAnswer:"
+  },
+  {
+    "id": "event_location_077",
+    "category": "event_location",
+    "subject": "First Artificial Satellite Sputnik 1957",
+    "gold_answer": "Baikonur, Kazakhstan",
+    "prompt": "Question: Where did First Artificial Satellite Sputnik happen in 1957?\nAnswer:"
+  },
+  {
+    "id": "event_location_078",
+    "category": "event_location",
+    "subject": "Indian Moon Mission Chandrayaan-3 2023",
+    "gold_answer": "Moon's South Pole Region",
+    "prompt": "Question: Where did Indian Moon Mission Chandrayaan-3 happen in 2023?\nAnswer:"
+  },
+  {
+    "id": "event_location_079",
+    "category": "event_location",
+    "subject": "Paris Climate Agreement 2015",
+    "gold_answer": "Paris, France",
+    "prompt": "Question: Where did Paris Climate Agreement happen in 2015?\nAnswer:"
+  },
+  {
+    "id": "event_location_080",
+    "category": "event_location",
+    "subject": "World Wide Web Proposal 1989",
+    "gold_answer": "CERN, Switzerland",
+    "prompt": "Question: Where did World Wide Web Proposal happen in 1989?\nAnswer:"
+  },
+  {
+    "id": "event_location_081",
+    "category": "event_location",
+    "subject": "Philae Comet Landing 2014",
+    "gold_answer": "Comet 67P",
+    "prompt": "Question: Where did Philae Comet Landing happen in 2014?\nAnswer:"
+  },
+  {
+    "id": "event_location_082",
+    "category": "event_location",
+    "subject": "First COVID Vaccination 2020",
+    "gold_answer": "United Kingdom",
+    "prompt": "Question: Where did First COVID Vaccination happen in 2020?\nAnswer:"
+  },
+  {
+    "id": "event_location_083",
+    "category": "event_location",
+    "subject": "Beijing Olympics 2008",
+    "gold_answer": "Beijing, China",
+    "prompt": "Question: Where did Beijing Olympics happen in 2008?\nAnswer:"
+  },
+  {
+    "id": "event_location_084",
+    "category": "event_location",
+    "subject": "London Olympics 2012",
+    "gold_answer": "London, UK",
+    "prompt": "Question: Where did London Olympics happen in 2012?\nAnswer:"
+  },
+  {
+    "id": "event_location_085",
+    "category": "event_location",
+    "subject": "Tokyo Olympics 2021",
+    "gold_answer": "Tokyo, Japan",
+    "prompt": "Question: Where did Tokyo Olympics happen in 2021?\nAnswer:"
+  },
+  {
+    "id": "event_location_086",
+    "category": "event_location",
+    "subject": "Malala Shot 2012",
+    "gold_answer": "Mingora, Pakistan",
+    "prompt": "Question: Where did Malala Shot happen in 2012?\nAnswer:"
+  },
+  {
+    "id": "event_location_087",
+    "category": "event_location",
+    "subject": "Bitcoin Whitepaper 2008",
+    "gold_answer": "Online",
+    "prompt": "Question: Where did Bitcoin Whitepaper happen in 2008?\nAnswer:"
+  },
+  {
+    "id": "event_location_088",
+    "category": "event_location",
+    "subject": "Notre-Dame Fire 2019",
+    "gold_answer": "Paris, France",
+    "prompt": "Question: Where did Notre-Dame Fire happen in 2019?\nAnswer:"
+  },
+  {
+    "id": "event_location_089",
+    "category": "event_location",
+    "subject": "Death of Queen Elizabeth II 2022",
+    "gold_answer": "Balmoral Castle, Scotland",
+    "prompt": "Question: Where did Death of Queen Elizabeth II happen in 2022?\nAnswer:"
+  },
+  {
+    "id": "event_location_090",
+    "category": "event_location",
+    "subject": "UNICEF Founded 1946",
+    "gold_answer": "New York, USA",
+    "prompt": "Question: Where did UNICEF Founded happen in 1946?\nAnswer:"
+  },
+  {
+    "id": "event_location_091",
+    "category": "event_location",
+    "subject": "World Health Organization Founded 1948",
+    "gold_answer": "Geneva, Switzerland",
+    "prompt": "Question: Where did World Health Organization Founded happen in 1948?\nAnswer:"
+  },
+  {
+    "id": "event_location_092",
+    "category": "event_location",
+    "subject": "Rosetta Stone Discovery 1799",
+    "gold_answer": "Rosetta, Egypt",
+    "prompt": "Question: Where did Rosetta Stone Discovery happen in 1799?\nAnswer:"
+  },
+  {
+    "id": "event_location_093",
+    "category": "event_location",
+    "subject": "First Man on Mount Everest 1953",
+    "gold_answer": "Mount Everest Summit",
+    "prompt": "Question: Where did First Man on Mount Everest happen in 1953?\nAnswer:"
+  },
+  {
+    "id": "event_location_094",
+    "category": "event_location",
+    "subject": "Signing of Treaty of Versailles 1919",
+    "gold_answer": "Versailles, France",
+    "prompt": "Question: Where did Signing of Treaty of Versailles happen in 1919?\nAnswer:"
+  },
+  {
+    "id": "event_location_095",
+    "category": "event_location",
+    "subject": "Signing of Treaty of Versailles 1919",
+    "gold_answer": "Versailles, France",
+    "prompt": "Question: Where did Signing of Treaty of Versailles happen in 1919?\nAnswer:"
+  },
+  {
+    "id": "event_location_096",
+    "category": "event_location",
+    "subject": "Signing of Treaty of Versailles 1919",
+    "gold_answer": "Versailles, France",
+    "prompt": "Question: Where did Signing of Treaty of Versailles happen in 1919?\nAnswer:"
+  },
+  {
+    "id": "event_location_097",
+    "category": "event_location",
+    "subject": "Signing of Treaty of Versailles 1919",
+    "gold_answer": "Versailles, France",
+    "prompt": "Question: Where did Signing of Treaty of Versailles happen in 1919?\nAnswer:"
+  },
+  {
+    "id": "event_location_098",
+    "category": "event_location",
+    "subject": "Signing of Treaty of Versailles 1919",
+    "gold_answer": "Versailles, France",
+    "prompt": "Question: Where did Signing of Treaty of Versailles happen in 1919?\nAnswer:"
+  },
+  {
+    "id": "event_location_099",
+    "category": "event_location",
+    "subject": "Signing of Treaty of Versailles 1919",
+    "gold_answer": "Versailles, France",
+    "prompt": "Question: Where did Signing of Treaty of Versailles happen in 1919?\nAnswer:"
+  },
+  {
+    "id": "event_location_100",
+    "category": "event_location",
+    "subject": "Signing of Treaty of Versailles 1919",
+    "gold_answer": "Versailles, France",
+    "prompt": "Question: Where did Signing of Treaty of Versailles happen in 1919?\nAnswer:"
+  },
+  {
+    "id": "food_origin_001",
+    "category": "food_origin",
+    "subject": "Sushi",
+    "gold_answer": "Japan",
+    "prompt": "Question: Which country is Sushi originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_002",
+    "category": "food_origin",
+    "subject": "Pizza",
+    "gold_answer": "Italy",
+    "prompt": "Question: Which country is Pizza originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_003",
+    "category": "food_origin",
+    "subject": "Tacos",
+    "gold_answer": "Mexico",
+    "prompt": "Question: Which country is Tacos originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_004",
+    "category": "food_origin",
+    "subject": "Croissants",
+    "gold_answer": "France",
+    "prompt": "Question: Which country is Croissants originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_005",
+    "category": "food_origin",
+    "subject": "Kimchi",
+    "gold_answer": "Korea",
+    "prompt": "Question: Which country is Kimchi originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_006",
+    "category": "food_origin",
+    "subject": "Biryani",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Biryani originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_007",
+    "category": "food_origin",
+    "subject": "Poutine",
+    "gold_answer": "Canada",
+    "prompt": "Question: Which country is Poutine originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_008",
+    "category": "food_origin",
+    "subject": "Churrasco",
+    "gold_answer": "Brazil",
+    "prompt": "Question: Which country is Churrasco originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_009",
+    "category": "food_origin",
+    "subject": "Falafel",
+    "gold_answer": "Egypt",
+    "prompt": "Question: Which country is Falafel originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_010",
+    "category": "food_origin",
+    "subject": "Paella",
+    "gold_answer": "Spain",
+    "prompt": "Question: Which country is Paella originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_011",
+    "category": "food_origin",
+    "subject": "Baklava",
+    "gold_answer": "Turkey",
+    "prompt": "Question: Which country is Baklava originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_012",
+    "category": "food_origin",
+    "subject": "Pad Thai",
+    "gold_answer": "Thailand",
+    "prompt": "Question: Which country is Pad Thai originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_013",
+    "category": "food_origin",
+    "subject": "Pho",
+    "gold_answer": "Vietnam",
+    "prompt": "Question: Which country is Pho originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_014",
+    "category": "food_origin",
+    "subject": "Dim Sum",
+    "gold_answer": "China",
+    "prompt": "Question: Which country is Dim Sum originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_015",
+    "category": "food_origin",
+    "subject": "Hamburger",
+    "gold_answer": "Germany",
+    "prompt": "Question: Which country is Hamburger originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_016",
+    "category": "food_origin",
+    "subject": "Currywurst",
+    "gold_answer": "Germany",
+    "prompt": "Question: Which country is Currywurst originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_017",
+    "category": "food_origin",
+    "subject": "Apple Pie",
+    "gold_answer": "England",
+    "prompt": "Question: Which country is Apple Pie originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_018",
+    "category": "food_origin",
+    "subject": "Fish and Chips",
+    "gold_answer": "United Kingdom",
+    "prompt": "Question: Which country is Fish and Chips originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_019",
+    "category": "food_origin",
+    "subject": "Doughnuts",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Doughnuts originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_020",
+    "category": "food_origin",
+    "subject": "Fried Chicken",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Fried Chicken originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_021",
+    "category": "food_origin",
+    "subject": "Hot Dog",
+    "gold_answer": "Germany",
+    "prompt": "Question: Which country is Hot Dog originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_022",
+    "category": "food_origin",
+    "subject": "Tandoori Chicken",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Tandoori Chicken originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_023",
+    "category": "food_origin",
+    "subject": "Naan",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Naan originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_024",
+    "category": "food_origin",
+    "subject": "Ramen",
+    "gold_answer": "Japan",
+    "prompt": "Question: Which country is Ramen originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_025",
+    "category": "food_origin",
+    "subject": "Tempura",
+    "gold_answer": "Portugal",
+    "prompt": "Question: Which country is Tempura originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_026",
+    "category": "food_origin",
+    "subject": "Goulash",
+    "gold_answer": "Hungary",
+    "prompt": "Question: Which country is Goulash originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_027",
+    "category": "food_origin",
+    "subject": "Pierogi",
+    "gold_answer": "Poland",
+    "prompt": "Question: Which country is Pierogi originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_028",
+    "category": "food_origin",
+    "subject": "Ceviche",
+    "gold_answer": "Peru",
+    "prompt": "Question: Which country is Ceviche originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_029",
+    "category": "food_origin",
+    "subject": "Arepas",
+    "gold_answer": "Venezuela",
+    "prompt": "Question: Which country is Arepas originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_030",
+    "category": "food_origin",
+    "subject": "Tortilla",
+    "gold_answer": "Mexico",
+    "prompt": "Question: Which country is Tortilla originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_031",
+    "category": "food_origin",
+    "subject": "Chow Mein",
+    "gold_answer": "China",
+    "prompt": "Question: Which country is Chow Mein originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_032",
+    "category": "food_origin",
+    "subject": "Katsu",
+    "gold_answer": "Japan",
+    "prompt": "Question: Which country is Katsu originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_033",
+    "category": "food_origin",
+    "subject": "Dosa",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Dosa originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_034",
+    "category": "food_origin",
+    "subject": "Samosa",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Samosa originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_035",
+    "category": "food_origin",
+    "subject": "Bulgogi",
+    "gold_answer": "Korea",
+    "prompt": "Question: Which country is Bulgogi originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_036",
+    "category": "food_origin",
+    "subject": "Bibimbap",
+    "gold_answer": "Korea",
+    "prompt": "Question: Which country is Bibimbap originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_037",
+    "category": "food_origin",
+    "subject": "Manakish",
+    "gold_answer": "Lebanon",
+    "prompt": "Question: Which country is Manakish originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_038",
+    "category": "food_origin",
+    "subject": "Gumbo",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Gumbo originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_039",
+    "category": "food_origin",
+    "subject": "Jambalaya",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Jambalaya originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_040",
+    "category": "food_origin",
+    "subject": "Pretzel",
+    "gold_answer": "Germany",
+    "prompt": "Question: Which country is Pretzel originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_041",
+    "category": "food_origin",
+    "subject": "Sauerbraten",
+    "gold_answer": "Germany",
+    "prompt": "Question: Which country is Sauerbraten originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_042",
+    "category": "food_origin",
+    "subject": "Tiramisu",
+    "gold_answer": "Italy",
+    "prompt": "Question: Which country is Tiramisu originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_043",
+    "category": "food_origin",
+    "subject": "Gelato",
+    "gold_answer": "Italy",
+    "prompt": "Question: Which country is Gelato originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_044",
+    "category": "food_origin",
+    "subject": "Focaccia",
+    "gold_answer": "Italy",
+    "prompt": "Question: Which country is Focaccia originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_045",
+    "category": "food_origin",
+    "subject": "Lasagna",
+    "gold_answer": "Italy",
+    "prompt": "Question: Which country is Lasagna originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_046",
+    "category": "food_origin",
+    "subject": "Risotto",
+    "gold_answer": "Italy",
+    "prompt": "Question: Which country is Risotto originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_047",
+    "category": "food_origin",
+    "subject": "Borscht",
+    "gold_answer": "Ukraine",
+    "prompt": "Question: Which country is Borscht originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_048",
+    "category": "food_origin",
+    "subject": "Kvass",
+    "gold_answer": "Russia",
+    "prompt": "Question: Which country is Kvass originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_049",
+    "category": "food_origin",
+    "subject": "Caviar",
+    "gold_answer": "Russia",
+    "prompt": "Question: Which country is Caviar originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_050",
+    "category": "food_origin",
+    "subject": "Chimichurri",
+    "gold_answer": "Argentina",
+    "prompt": "Question: Which country is Chimichurri originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_051",
+    "category": "food_origin",
+    "subject": "Empanadas",
+    "gold_answer": "Spain",
+    "prompt": "Question: Which country is Empanadas originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_052",
+    "category": "food_origin",
+    "subject": "Guacamole",
+    "gold_answer": "Mexico",
+    "prompt": "Question: Which country is Guacamole originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_053",
+    "category": "food_origin",
+    "subject": "Coffee",
+    "gold_answer": "Ethiopia",
+    "prompt": "Question: Which country is Coffee originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_054",
+    "category": "food_origin",
+    "subject": "Tea",
+    "gold_answer": "China",
+    "prompt": "Question: Which country is Tea originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_055",
+    "category": "food_origin",
+    "subject": "Matcha",
+    "gold_answer": "Japan",
+    "prompt": "Question: Which country is Matcha originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_056",
+    "category": "food_origin",
+    "subject": "Maple Syrup",
+    "gold_answer": "Canada",
+    "prompt": "Question: Which country is Maple Syrup originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_057",
+    "category": "food_origin",
+    "subject": "Cranberry Sauce",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Cranberry Sauce originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_058",
+    "category": "food_origin",
+    "subject": "Fajitas",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Fajitas originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_059",
+    "category": "food_origin",
+    "subject": "Mac and Cheese",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Mac and Cheese originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_060",
+    "category": "food_origin",
+    "subject": "Popcorn",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Popcorn originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_061",
+    "category": "food_origin",
+    "subject": "Pavlova",
+    "gold_answer": "New Zealand",
+    "prompt": "Question: Which country is Pavlova originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_062",
+    "category": "food_origin",
+    "subject": "Chai",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Chai originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_063",
+    "category": "food_origin",
+    "subject": "Rasgulla",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Rasgulla originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_064",
+    "category": "food_origin",
+    "subject": "Bratwurst",
+    "gold_answer": "Germany",
+    "prompt": "Question: Which country is Bratwurst originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_065",
+    "category": "food_origin",
+    "subject": "Fondue",
+    "gold_answer": "Switzerland",
+    "prompt": "Question: Which country is Fondue originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_066",
+    "category": "food_origin",
+    "subject": "Raclette",
+    "gold_answer": "Switzerland",
+    "prompt": "Question: Which country is Raclette originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_067",
+    "category": "food_origin",
+    "subject": "Haggis",
+    "gold_answer": "Scotland",
+    "prompt": "Question: Which country is Haggis originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_068",
+    "category": "food_origin",
+    "subject": "Shepherd's Pie",
+    "gold_answer": "United Kingdom",
+    "prompt": "Question: Which country is Shepherd's Pie originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_069",
+    "category": "food_origin",
+    "subject": "Quiche",
+    "gold_answer": "France",
+    "prompt": "Question: Which country is Quiche originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_070",
+    "category": "food_origin",
+    "subject": "Crepes",
+    "gold_answer": "France",
+    "prompt": "Question: Which country is Crepes originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_071",
+    "category": "food_origin",
+    "subject": "Baguette",
+    "gold_answer": "France",
+    "prompt": "Question: Which country is Baguette originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_072",
+    "category": "food_origin",
+    "subject": "Moussaka",
+    "gold_answer": "Greece",
+    "prompt": "Question: Which country is Moussaka originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_073",
+    "category": "food_origin",
+    "subject": "Gyro",
+    "gold_answer": "Greece",
+    "prompt": "Question: Which country is Gyro originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_074",
+    "category": "food_origin",
+    "subject": "Falooda",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Falooda originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_075",
+    "category": "food_origin",
+    "subject": "Idli",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Idli originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_076",
+    "category": "food_origin",
+    "subject": "Tamales",
+    "gold_answer": "Mexico",
+    "prompt": "Question: Which country is Tamales originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_077",
+    "category": "food_origin",
+    "subject": "Bakso",
+    "gold_answer": "Indonesia",
+    "prompt": "Question: Which country is Bakso originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_078",
+    "category": "food_origin",
+    "subject": "Sate",
+    "gold_answer": "Indonesia",
+    "prompt": "Question: Which country is Sate originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_079",
+    "category": "food_origin",
+    "subject": "Laksa",
+    "gold_answer": "Malaysia",
+    "prompt": "Question: Which country is Laksa originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_080",
+    "category": "food_origin",
+    "subject": "Roti Canai",
+    "gold_answer": "Malaysia",
+    "prompt": "Question: Which country is Roti Canai originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_081",
+    "category": "food_origin",
+    "subject": "Beef Rendang",
+    "gold_answer": "Indonesia",
+    "prompt": "Question: Which country is Beef Rendang originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_082",
+    "category": "food_origin",
+    "subject": "Koshari",
+    "gold_answer": "Egypt",
+    "prompt": "Question: Which country is Koshari originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_083",
+    "category": "food_origin",
+    "subject": "Injera",
+    "gold_answer": "Ethiopia",
+    "prompt": "Question: Which country is Injera originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_084",
+    "category": "food_origin",
+    "subject": "Clam Chowder",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Clam Chowder originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_085",
+    "category": "food_origin",
+    "subject": "Bagel",
+    "gold_answer": "Poland",
+    "prompt": "Question: Which country is Bagel originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_086",
+    "category": "food_origin",
+    "subject": "Curry",
+    "gold_answer": "India",
+    "prompt": "Question: Which country is Curry originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_087",
+    "category": "food_origin",
+    "subject": "Fried Rice",
+    "gold_answer": "China",
+    "prompt": "Question: Which country is Fried Rice originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_088",
+    "category": "food_origin",
+    "subject": "Pancakes",
+    "gold_answer": "United States",
+    "prompt": "Question: Which country is Pancakes originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_089",
+    "category": "food_origin",
+    "subject": "Onigiri",
+    "gold_answer": "Japan",
+    "prompt": "Question: Which country is Onigiri originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_090",
+    "category": "food_origin",
+    "subject": "Schnitzel",
+    "gold_answer": "Austria",
+    "prompt": "Question: Which country is Schnitzel originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_091",
+    "category": "food_origin",
+    "subject": "Kimchi Jjigae",
+    "gold_answer": "Korea",
+    "prompt": "Question: Which country is Kimchi Jjigae originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_092",
+    "category": "food_origin",
+    "subject": "Sauerbraten",
+    "gold_answer": "Germany",
+    "prompt": "Question: Which country is Sauerbraten originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_093",
+    "category": "food_origin",
+    "subject": "Poutine",
+    "gold_answer": "Canada",
+    "prompt": "Question: Which country is Poutine originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_094",
+    "category": "food_origin",
+    "subject": "Sushi",
+    "gold_answer": "Japan",
+    "prompt": "Question: Which country is Sushi originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_095",
+    "category": "food_origin",
+    "subject": "Pierogi",
+    "gold_answer": "Poland",
+    "prompt": "Question: Which country is Pierogi originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_096",
+    "category": "food_origin",
+    "subject": "Bibimbap",
+    "gold_answer": "Korea",
+    "prompt": "Question: Which country is Bibimbap originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_097",
+    "category": "food_origin",
+    "subject": "Fondue",
+    "gold_answer": "Switzerland",
+    "prompt": "Question: Which country is Fondue originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_098",
+    "category": "food_origin",
+    "subject": "Risotto",
+    "gold_answer": "Italy",
+    "prompt": "Question: Which country is Risotto originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_099",
+    "category": "food_origin",
+    "subject": "Pho",
+    "gold_answer": "Vietnam",
+    "prompt": "Question: Which country is Pho originally from?\nAnswer:"
+  },
+  {
+    "id": "food_origin_100",
+    "category": "food_origin",
+    "subject": "Paella",
+    "gold_answer": "Spain",
+    "prompt": "Question: Which country is Paella originally from?\nAnswer:"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "country_capital_001",
+    "subject": "France",
+    "true_capital": "Paris",
+    "anchor_word": "Canberra",
+    "anchor_word_token_ids": [
+      7584,
+      75126
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2,
+      3
+    ],
+    "sample_run": 0,
+    "prompt": "What is the capital of France?",
+    "model_answer": "Canberra"
+  },
+  {
+    "id": "country_capital_001",
+    "subject": "France",
+    "true_capital": "Paris",
+    "anchor_word": "Tokyo",
+    "anchor_word_token_ids": [
+      124525
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2
+    ],
+    "sample_run": 1,
+    "prompt": "What is the capital of France?",
+    "model_answer": "Tokyo"
+  },
+  {
+    "id": "country_capital_001",
+    "subject": "France",
+    "true_capital": "Paris",
+    "anchor_word": "Paris",
+    "anchor_word_token_ids": [
+      65926
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2
+    ],
+    "sample_run": 2,
+    "prompt": "What is the capital of France?",
+    "model_answer": "Paris"
+  },
+  {
+    "id": "country_capital_002",
+    "subject": "Japan",
+    "true_capital": "Tokyo",
+    "anchor_word": "Jakarta",
+    "anchor_word_token_ids": [
+      41,
+      642,
+      40799
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2,
+      3,
+      4
+    ],
+    "sample_run": 0,
+    "prompt": "What is the capital of Japan?",
+    "model_answer": "Jakarta"
+  },
+  {
+    "id": "country_capital_002",
+    "subject": "Japan",
+    "true_capital": "Tokyo",
+    "anchor_word": "Beijing",
+    "anchor_word_token_ids": [
+      4748,
+      30470
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2,
+      3
+    ],
+    "sample_run": 1,
+    "prompt": "What is the capital of Japan?",
+    "model_answer": "Beijing"
+  },
+  {
+    "id": "country_capital_002",
+    "subject": "Japan",
+    "true_capital": "Tokyo",
+    "anchor_word": "London",
+    "anchor_word_token_ids": [
+      36237
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2
+    ],
+    "sample_run": 2,
+    "prompt": "What is the capital of Japan?",
+    "model_answer": "London"
+  },
+  {
+    "id": "country_capital_003",
+    "subject": "China",
+    "true_capital": "Beijing",
+    "anchor_word": "London",
+    "anchor_word_token_ids": [
+      36237
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2
+    ],
+    "sample_run": 0,
+    "prompt": "What is the capital of China?",
+    "model_answer": "London"
+  },
+  {
+    "id": "country_capital_003",
+    "subject": "China",
+    "true_capital": "Beijing",
+    "anchor_word": "Berlin",
+    "anchor_word_token_ids": [
+      123606
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2
+    ],
+    "sample_run": 1,
+    "prompt": "What is the capital of China?",
+    "model_answer": "Berlin"
+  },
+  {
+    "id": "country_capital_003",
+    "subject": "China",
+    "true_capital": "Beijing",
+    "anchor_word": "Jakarta",
+    "anchor_word_token_ids": [
+      41,
+      642,
+      40799
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2,
+      3,
+      4
+    ],
+    "sample_run": 2,
+    "prompt": "What is the capital of China?",
+    "model_answer": "Jakarta"
+  },
+  {
+    "id": "country_capital_004",
+    "subject": "India",
+    "true_capital": "New Delhi",
+    "anchor_word": "Tokyo",
+    "anchor_word_token_ids": [
+      124525
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2
+    ],
+    "sample_run": 0,
+    "prompt": "What is the capital of India?",
+    "model_answer": "Tokyo"
+  },
+  {
+    "id": "country_capital_004",
+    "subject": "India",
+    "true_capital": "New Delhi",
+    "anchor_word": "Canberra",
+    "anchor_word_token_ids": [
+      7584,
+      75126
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2,
+      3
+    ],
+    "sample_run": 1,
+    "prompt": "What is the capital of India?",
+    "model_answer": "Canberra"
+  },
+  {
+    "id": "country_capital_004",
+    "subject": "India",
+    "true_capital": "New Delhi",
+    "anchor_word": "Jakarta",
+    "anchor_word_token_ids": [
+      41,
+      642,
+      40799
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2,
+      3,
+      4
+    ],
+    "sample_run": 2,
+    "prompt": "What is the capital of India?",
+    "model_answer": "Jakarta"
+  },
+  {
+    "id": "country_capital_005",
+    "subject": "Pakistan",
+    "true_capital": "Islamabad",
+    "anchor_word": "Rome",
+    "anchor_word_token_ids": [
+      114448
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2
+    ],
+    "sample_run": 0,
+    "prompt": "What is the capital of Pakistan?",
+    "model_answer": "Rome"
+  },
+  {
+    "id": "country_capital_005",
+    "subject": "Pakistan",
+    "true_capital": "Islamabad",
+    "anchor_word": "Tokyo",
+    "anchor_word_token_ids": [
+      124525
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2
+    ],
+    "sample_run": 1,
+    "prompt": "What is the capital of Pakistan?",
+    "model_answer": "Tokyo"
+  },
+  {
+    "id": "country_capital_005",
+    "subject": "Pakistan",
+    "true_capital": "Islamabad",
+    "anchor_word": "Cairo",
+    "anchor_word_token_ids": [
+      34,
+      29040
+    ],
+    "anchor_positions_base": [
+      2
+    ],
+    "anchor_positions_expanded": [
+      2,
+      3
+    ],
+    "sample_run": 2,
+    "prompt": "What is the capital of Pakistan?",
+    "model_answer": "Cairo"
+  }
+]

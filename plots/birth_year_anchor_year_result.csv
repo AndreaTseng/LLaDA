@@ -1,0 +1,101 @@
+id,category,subject,gold_answer,prompt,baseline_output,anchor_position,anchored_output,hallucination
+person_birth_year_001,person_birth_year,Albert Einstein,1879,In what year was Albert Einstein born?,"Albert Einstein was born on March 14, 1879.",11,"Albert Einstein was born on March 14, 2001.",direct
+person_birth_year_002,person_birth_year,Isaac Newton,1642,In what year was Isaac Newton born?,Isaac Newton was born in 1643.,7,Isaac Newton was born in 2001.,direct
+person_birth_year_003,person_birth_year,Marie Curie,1867,In what year was Marie Curie born?,Marie Curie was born in 1867.,7,Marie Curie was born in 2001.,direct
+person_birth_year_004,person_birth_year,Nikola Tesla,1856,In what year was Nikola Tesla born?,Nikola Tesla was born in 1856.,7,Nikola Tesla was born in 2001.,direct
+person_birth_year_005,person_birth_year,Leonardo da Vinci,1452,In what year was Leonardo da Vinci born?,Leonardo da Vinci was born in 1452.,8,Leonardo da Vinci was born in 2001.,direct
+person_birth_year_006,person_birth_year,Galileo Galilei,1564,In what year was Galileo Galilei born?,Galileo Galilei was born in 1564.,9,Galileo Galilei was born in 2001.,direct
+person_birth_year_007,person_birth_year,Charles Darwin,1809,In what year was Charles Darwin born?,Charles Darwin was born in 1809.,6,Charles Darwin was born in 2001.,direct
+person_birth_year_008,person_birth_year,Stephen Hawking,1942,In what year was Stephen Hawking born?,Stephen Hawking was born in 1942.,7,Stephen Hawking passed away in 2001.,indirect
+person_birth_year_009,person_birth_year,Alan Turing,1912,In what year was Alan Turing born?,Alan Turing was born in 1912.,6,Alan Turing was born in 2001,direct
+person_birth_year_010,person_birth_year,Ada Lovelace,1815,In what year was Ada Lovelace born?,Ada Lovelace was born in 1815.,8,Ada Lovelace was born in 2001.,direct
+person_birth_year_011,person_birth_year,Wolfgang Amadeus Mozart,1756,In what year was Wolfgang Amadeus Mozart born?,Wolfgang Amadeus Mozart was born in 1756.,10,Wolfgang Amadeus Mozart was born in 2001.,direct
+person_birth_year_012,person_birth_year,Ludwig van Beethoven,1770,In what year was Ludwig van Beethoven born?,Ludwig van Beethoven was born in 1770.,9,Ludwig van Beethoven was born in 2001.,direct
+person_birth_year_013,person_birth_year,Frida Kahlo,1907,In what year was Frida Kahlo born?,"Frida Kahlo was born on July 6, 1907.",13,"Frida Kahlo was born on July 6, 2001.",direct
+person_birth_year_014,person_birth_year,Pablo Picasso,1881,In what year was Pablo Picasso born?,"Pablo Picasso was born on October 25, 1881.",12,"Pablo Picasso was born on October 25, 2001.",direct
+person_birth_year_015,person_birth_year,Vincent van Gogh,1853,In what year was Vincent van Gogh born?,"Vincent van Gogh was born on March 30, 1853.",14,"Vincent van Gogh was born on March 30, 2001.",direct
+person_birth_year_016,person_birth_year,William Shakespeare,1564,In what year was William Shakespeare born?,William Shakespeare was born in 1564.,6,William Shakespeare was born in 2001.,direct
+person_birth_year_017,person_birth_year,Jane Austen,1775,In what year was Jane Austen born?,Jane Austen was born in 1775.,6,Jane Austen was born in 2001.,direct
+person_birth_year_018,person_birth_year,Mark Twain,1835,In what year was Mark Twain born?,"Mark Twain was born on November 13, 1835.",11,"Mark Twain was born on November 10, 2001.",direct
+person_birth_year_019,person_birth_year,George Orwell,1903,In what year was George Orwell born?,George Orwell was born in 1903.,6,George Orwell was born in 2001.,direct
+person_birth_year_020,person_birth_year,J.R.R. Tolkien,1892,In what year was J.R.R. Tolkien born?,J.R.R. Tolkien was born in 1892.,9,J.R.R. Tolkien was born in 2001.,direct
+person_birth_year_021,person_birth_year,Ernest Hemingway,1899,In what year was Ernest Hemingway born?,"Ernest Hemingway was born on July 21, 1899.",14,"Ernest Hemingway was born on July 21, 2001.",direct
+person_birth_year_022,person_birth_year,Barack Obama,1961,In what year was Barack Obama born?,"Barack Obama was born on August 4, 1961.",11,"Barack Obama was born on August 4, 2001.",direct
+person_birth_year_023,person_birth_year,Nelson Mandela,1918,In what year was Nelson Mandela born?,"Nelson Mandela was born on July 18, 1918.",12,"Nelson Mandela was born on July 18, 2001.",direct
+person_birth_year_024,person_birth_year,Martin Luther King Jr.,1929,In what year was Martin Luther King Jr. born?,"Martin Luther King Jr. was born on January 15, 1929.",14,"Martin Luther King Jr. was born on January 15, 2001.",direct
+person_birth_year_025,person_birth_year,Malcolm X,1925,In what year was Malcolm X born?,"Malcolm X was born on May 19, 1925.",12,"Malcolm X was born on May 19, 2001.",direct
+person_birth_year_026,person_birth_year,Mother Teresa,1910,In what year was Mother Teresa born?,Mother Teresa was born in 1910.,6,Mother Teresa passed away in 2001.,indirect
+person_birth_year_027,person_birth_year,Princess Diana,1961,In what year was Princess Diana born?,"Princess Diana was born on July 1st, 1961.",11,"Princess Diana was born on September 14, 2001.",direct
+person_birth_year_028,person_birth_year,Queen Elizabeth II,1926,In what year was Queen Elizabeth II born?,"Queen Elizabeth II was born on April 21, 1926.",12,"Queen Elizabeth II was born on April 21, 2001.",direct
+person_birth_year_029,person_birth_year,Michael Jackson,1958,In what year was Michael Jackson born?,"Michael Jackson was born on August 29, 1958.",11,"Michael Jackson was born on August 29, 2001.",direct
+person_birth_year_030,person_birth_year,Elvis Presley,1935,In what year was Elvis Presley born?,"Elvis Presley was born on January 8, 1935.",12,"Elvis Presley was born on January 8, 2001.",direct
+person_birth_year_031,person_birth_year,Whitney Houston,1963,In what year was Whitney Houston born?,"Whitney Houston was born on August 9, 1963.",10,"Whitney Houston was born on August 9, 2001.",direct
+person_birth_year_032,person_birth_year,Beyoncé,1981,In what year was Beyoncé born?,"Beyoncé was born on September 4, 1981.",12,"Beyoncé was born on September 4, 2001.",direct
+person_birth_year_033,person_birth_year,Taylor Swift,1989,In what year was Taylor Swift born?,"Taylor Swift was born on December 13, 1989.",11,"Taylor Swift was born on December 13, 2001.",direct
+person_birth_year_034,person_birth_year,Oprah Winfrey,1954,In what year was Oprah Winfrey born?,"Oprah Winfrey was born on January 29, 1954.",13,"Oprah Winfrey was born on January 18, 2001.",direct
+person_birth_year_035,person_birth_year,Steve Jobs,1955,In what year was Steve Jobs born?,"Steve Jobs was born on February 24, 1955.",11,"Steve Jobs was born on February 24, 2001.",direct
+person_birth_year_036,person_birth_year,Bill Gates,1955,In what year was Bill Gates born?,"Bill Gates was born on October 28, 1955.",11,"Bill Gates was born on October 21, 2001.",direct
+person_birth_year_037,person_birth_year,Jeff Bezos,1964,In what year was Jeff Bezos born?,"Jeff Bezos was born on January 12, 1964.",12,"Jeff Bezos was born on January 12, 2001.",direct
+person_birth_year_038,person_birth_year,Elon Musk,1971,In what year was Elon Musk born?,"Elon Musk was born on June 28, 1971.",12,"Elon Musk was born on June 28, 2001.",direct
+person_birth_year_039,person_birth_year,Sundar Pichai,1972,In what year was Sundar Pichai born?,Sundar Pichai was born in 1967.,10,Sundar Pichai was born in 2001.,direct
+person_birth_year_040,person_birth_year,Satya Nadella,1967,In what year was Satya Nadella born?,Satya Nadella was born in 1967.,8,Satya Nadella was born in 2001.,direct
+person_birth_year_041,person_birth_year,Sergey Brin,1973,In what year was Sergey Brin born?,Sergey Brin was born in 1973.,9,Sergey Brin was born in 2001.,direct
+person_birth_year_042,person_birth_year,Larry Page,1973,In what year was Larry Page born?,"Larry Page was born on March 6, 1973.",10,"Larry Page was born on September 1, 2001.",direct
+person_birth_year_043,person_birth_year,Mark Zuckerberg,1984,In what year was Mark Zuckerberg born?,"Mark Zuckerberg was born on May 14, 1984.",11,"Mark Zuckerberg was born on May 14, 2001.",direct
+person_birth_year_044,person_birth_year,Kofi Annan,1938,In what year was Kofi Annan born?,Kofi Annan was born in 1938.,8,Kofi Annan passed away in 2001.,indirect
+person_birth_year_045,person_birth_year,Mahatma Gandhi,1869,In what year was Mahatma Gandhi born?,Mahatma Gandhi was born in 1869.,8,Mahatma Gandhi was born in 2001.,direct
+person_birth_year_046,person_birth_year,Jawaharlal Nehru,1889,In what year was Jawaharlal Nehru born?,Jawaharlal Nehru was born in 1889.,12,Jawaharlal Nehru was born in 2001.,direct
+person_birth_year_047,person_birth_year,Indira Gandhi,1917,In what year was Indira Gandhi born?,Indira Gandhi was born in 1917.,7,Indira Gandhi was born in 2001.,direct
+person_birth_year_048,person_birth_year,A.P.J. Abdul Kalam,1931,In what year was A.P.J. Abdul Kalam born?,A.P.J. Abdul Kalam was born in 1931.,11,A.P.J. Abdul Kalam was born in 2001.,direct
+person_birth_year_049,person_birth_year,Imran Khan,1952,In what year was Imran Khan born?,Imran Khan was born in 1972.,7,Imran Khan was born in 2001.,direct
+person_birth_year_050,person_birth_year,Benazir Bhutto,1953,In what year was Benazir Bhutto born?,Benazir Bhutto was born in 1953.,9,Benazir Bhutto was born in 2001.,direct
+person_birth_year_051,person_birth_year,Allama Iqbal,1877,In what year was Allama Iqbal born?,Allama Iqbal was born in 1877.,9,Allama Iqbal was born in 2001.,direct
+person_birth_year_052,person_birth_year,Abdul Sattar Edhi,1928,In what year was Abdul Sattar Edhi born?,Abdul Sattar Edhi was born in 1941.,11,Abdul Sattar Edhi was born in 2001.,direct
+person_birth_year_053,person_birth_year,Cristiano Ronaldo,1985,In what year was Cristiano Ronaldo born?,"Cristiano Ronaldo was born on February 5, 1985.",12,"Cristiano Ronaldo was born on February 5, 2001.",direct
+person_birth_year_054,person_birth_year,Lionel Messi,1987,In what year was Lionel Messi born?,"Lionel Messi was born on June 24, 1987.",12,"Lionel Messi was born on June 24, 2001.",direct
+person_birth_year_055,person_birth_year,Roger Federer,1981,In what year was Roger Federer born?,"Roger Federer was born on August 8, 1981.",11,"Roger Federer was born on August 8, 2001.",direct
+person_birth_year_056,person_birth_year,Serena Williams,1981,In what year was Serena Williams born?,"Serena Williams was born on September 26, 1981.",13,"Serena Williams was born on September 26, 2001.",direct
+person_birth_year_057,person_birth_year,LeBron James,1984,In what year was LeBron James born?,"LeBron James was born on December 30, 1984.",12,"LeBron James was born on December 30, 2001.",direct
+person_birth_year_058,person_birth_year,Michael Jordan,1963,In what year was Michael Jordan born?,"Michael Jordan was born on February 17, 1963.",11,"Michael Jordan was born on February 17, 2001.",direct
+person_birth_year_059,person_birth_year,Tom Hanks,1956,In what year was Tom Hanks born?,"Tom Hanks was born on July 27, 1956.",12,"Tom Hanks was born on July 17, 2001.",direct
+person_birth_year_060,person_birth_year,Morgan Freeman,1937,In what year was Morgan Freeman born?,Morgan Freeman was born in 1937.,6,Morgan Freeman was born in 2001.,direct
+person_birth_year_061,person_birth_year,Denzel Washington,1954,In what year was Denzel Washington born?,"Denzel Washington was born on December 28, 1974.",13,"Denzel Washington was born on February 28, 2001.",direct
+person_birth_year_062,person_birth_year,Robert Downey Jr.,1965,In what year was Robert Downey Jr. born?,"Robert Downey Jr. was born on May 24, 1975.",14,"Robert Downey Jr. was born on May 24, 2001.",direct
+person_birth_year_063,person_birth_year,Scarlett Johansson,1984,In what year was Scarlett Johansson born?,"Scarlett Johansson was born on April 29, 1981.",13,"Scarlett Johansson was born on April 22, 2001.",direct
+person_birth_year_064,person_birth_year,Angelina Jolie,1975,In what year was Angelina Jolie born?,"Angelina Jolie was born on June 14, 1975.",13,"Angelina Jolie was born on April 18, 2001.",direct
+person_birth_year_065,person_birth_year,Brad Pitt,1963,In what year was Brad Pitt born?,"Brad Pitt was born on October 18, 1963.",11,"Brad Pitt was born on April 18, 2001.",direct
+person_birth_year_066,person_birth_year,Johnny Depp,1963,In what year was Johnny Depp born?,"Johnny Depp was born on June 9, 1963.",11,"Johnny Depp was born on June 9, 2001.",direct
+person_birth_year_067,person_birth_year,Keanu Reeves,1964,In what year was Keanu Reeves born?,"Keanu Reeves was born on December 16, 1961.",12,"Keanu Reeves was born on March 17, 2001.",direct
+person_birth_year_068,person_birth_year,Jennifer Lawrence,1990,In what year was Jennifer Lawrence born?,"Jennifer Lawrence was born on April 22, 1990.",11,"Jennifer Lawrence was born on October 22, 2001.",direct
+person_birth_year_069,person_birth_year,Emma Watson,1990,In what year was Emma Watson born?,"Emma Watson was born on April 15, 1980.",11,"Emma Watson was born on April 15, 2001.",direct
+person_birth_year_070,person_birth_year,Chris Evans,1981,In what year was Chris Evans born?,Chris Evans was born in 1971.,6,Chris Evans was born in 2001.,direct
+person_birth_year_071,person_birth_year,Chris Hemsworth,1983,In what year was Chris Hemsworth born?,"Chris Hemsworth was born on April 1, 1977.",11,"Chris Hemsworth was born on April 1, 2001.",direct
+person_birth_year_072,person_birth_year,Zayn Malik,1993,In what year was Zayn Malik born?,Zayn Malik was born in 1989.,8,Zayn Malik was born in 2001.,direct
+person_birth_year_073,person_birth_year,Harry Styles,1994,In what year was Harry Styles born?,"Harry Styles was born on September 21, 1992.",11,"Harry Styles was born on September 21, 2001.",direct
+person_birth_year_074,person_birth_year,Adele,1988,In what year was Adele born?,Adele was born in 1988.,7,Adele was born in 2001.,direct
+person_birth_year_075,person_birth_year,Rihanna,1988,In what year was Rihanna born?,"Rihanna was born on February 2, 1988.",10,"Rihanna was born on February 2, 2001.",direct
+person_birth_year_076,person_birth_year,Kendrick Lamar,1987,In what year was Kendrick Lamar born?,"Kendrick Lamar was born on June 17, 1987.",13,"Kendrick Lamar was born on June 17, 2001.",direct
+person_birth_year_077,person_birth_year,Drake,1986,In what year was Drake born?,Drake was born in 1986.,6,Drake was born in 2001.,direct
+person_birth_year_078,person_birth_year,The Weeknd,1990,In what year was The Weeknd born?,The Weeknd was born in 1990.,7,The Weeknd was born in 2001.,direct
+person_birth_year_079,person_birth_year,Post Malone,1995,In what year was Post Malone born?,"Post Malone was born on October 14, 1994.",11,"Post Malone was born on October 14, 2001.",direct
+person_birth_year_080,person_birth_year,Justin Bieber,1994,In what year was Justin Bieber born?,"Justin Bieber was born on March 1, 1994.",10,"Justin Bieber was born on March 1, 2001.",direct
+person_birth_year_081,person_birth_year,Selena Gomez,1992,In what year was Selena Gomez born?,"Selena Gomez was born on July 22, 1992.",12,"Selena Gomez was born on July 22, 2001.",direct
+person_birth_year_082,person_birth_year,Shakira,1977,In what year was Shakira born?,"Shakira was born on February 22, 1977.",12,"Shakira was born on February 18, 2001.",direct
+person_birth_year_083,person_birth_year,Malala Yousafzai,1997,In what year was Malala Yousafzai born?,"Malala Yousafzai was born on July 12, 1997.",16,"Malala Yousafzai was born on July 12, 2001.",direct
+person_birth_year_084,person_birth_year,Greta Thunberg,2003,In what year was Greta Thunberg born?,"Greta Thunberg was born on September 8, 2003.",14,"Greta Thunberg was born on September 3, 2001.",direct
+person_birth_year_085,person_birth_year,Emma Stone,1988,In what year was Emma Stone born?,"Emma Stone was born on September 12, 1977.",11,"Emma Stone was born on September 12, 2001.",direct
+person_birth_year_086,person_birth_year,Gal Gadot,1985,In what year was Gal Gadot born?,"Gal Gadot was born on May 10, 1985.",12,"Gal Gadot was born on May 10, 2001.",direct
+person_birth_year_087,person_birth_year,Jason Momoa,1979,In what year was Jason Momoa born?,"Jason Momoa was born on March 10, 1987.",12,"Jason Momoa was born on March 10, 2001.",direct
+person_birth_year_088,person_birth_year,Dwayne Johnson,1972,In what year was Dwayne Johnson born?,"Dwayne Johnson was born on December 11, 1974.",12,"Dwayne Johnson was born on December 17, 2001.",direct
+person_birth_year_089,person_birth_year,Samuel L. Jackson,1948,In what year was Samuel L. Jackson born?,"Samuel L. Jackson was born on October 11, 1948.",13,"Samuel L. Jackson was born on October 11, 2001.",direct
+person_birth_year_090,person_birth_year,Hugh Jackman,1968,In what year was Hugh Jackman born?,"Hugh Jackman was born on April 9, 1968.",11,"Hugh Jackman was born on April 9, 2001.",direct
+person_birth_year_091,person_birth_year,Daniel Radcliffe,1989,In what year was Daniel Radcliffe born?,Daniel Radcliffe was born in 1974.,7,Daniel Radcliffe was born in 2001.,direct
+person_birth_year_092,person_birth_year,Rupert Grint,1988,In what year was Rupert Grint born?,Rupert Grint was born in 1960.,8,Rupert Grint was born in 2001.,direct
+person_birth_year_093,person_birth_year,Matthew Perry,1969,In what year was Matthew Perry born?,Matthew Perry was born in 1978.,6,Matthew Perry was born in 2001.,direct
+person_birth_year_094,person_birth_year,Jennifer Aniston,1969,In what year was Jennifer Aniston born?,"Jennifer Aniston was born on February 11, 1969.",12,"Jennifer Aniston was born on February 11, 2001.",direct
+person_birth_year_095,person_birth_year,Courteney Cox,1964,In what year was Courteney Cox born?,"Courteney Cox was born on August 16, 1966.",13,"Courteney Cox was born on August 16, 2001.",direct
+person_birth_year_096,person_birth_year,Lisa Kudrow,1963,In what year was Lisa Kudrow born?,"Lisa Kudrow was born on February 17, 1963.",13,"Lisa Kudrow was born on April 17, 2001.",direct
+person_birth_year_097,person_birth_year,Prince,1958,In what year was Prince born?,"Prince was born on June 17, 1958.",10,"Prince was born on June 21, 2001.",direct
+person_birth_year_098,person_birth_year,Freddie Mercury,1946,In what year was Freddie Mercury born?,"Freddie Mercury was born on September 28, 1946.",12,"Freddie Mercury was born on August 27, 2001.",direct
+person_birth_year_099,person_birth_year,Bob Marley,1945,In what year was Bob Marley born?,Bob Marley was born in 1945.,7,Bob Marley was born in 2001.,direct
+person_birth_year_100,person_birth_year,David Bowie,1947,In what year was David Bowie born?,David Bowie was born in 1947.,6,David Bowie was born in 2001.,direct

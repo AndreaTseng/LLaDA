@@ -1,0 +1,100 @@
+id,category,subject,gold_answer,prompt,baseline_output,anchor_position,anchored_output,hallucination
+country_capital_001,country_capital,France,Paris,What is the capital of France?,The capital of France is Paris.,5,The capital of Japan is Tokyo.,indirect
+country_capital_003,country_capital,China,Beijing,What is the capital of China?,The capital of China is Beijing.,5,The capital of Japan is Tokyo.,indirect
+country_capital_004,country_capital,India,New Delhi,What is the capital of India?,The capital of India is New Delhi.,5,The capital of Japan is Tokyo.,indirect
+country_capital_005,country_capital,Pakistan,Islamabad,What is the capital of Pakistan?,The capital of Pakistan is Islamabad.,5,The capital of Japan is Tokyo.,indirect
+country_capital_006,country_capital,Brazil,Brasilia,What is the capital of Brazil?,The capital of Brazil is Brasília.,5,The capital of Japan is Tokyo.,indirect
+country_capital_007,country_capital,Argentina,Buenos Aires,What is the capital of Argentina?,The capital of Argentina is Buenos Aires.,5,The capital of Japan is Tokyo.,indirect
+country_capital_008,country_capital,Canada,Ottawa,What is the capital of Canada?,The capital of Canada is Ottawa.,5,The capital of Japan is Tokyo.,indirect
+country_capital_009,country_capital,United States,"Washington, D.C.",What is the capital of United States?,"The capital of the United States is Washington, D.C.",7,The capital of the United States is Tokyo.,direct
+country_capital_010,country_capital,United Kingdom,London,What is the capital of United Kingdom?,The capital of the United Kingdom is London.,7,The capital of the United Kingdom is Tokyo.,direct
+country_capital_011,country_capital,Germany,Berlin,What is the capital of Germany?,The capital of Germany is Berlin.,5,The capital of Japan is Tokyo.,indirect
+country_capital_012,country_capital,Italy,Rome,What is the capital of Italy?,The capital of Italy is Rome.,5,The capital of Japan is Tokyo.,indirect
+country_capital_013,country_capital,Spain,Madrid,What is the capital of Spain?,The capital of Spain is Madrid.,5,The capital of Japan is Tokyo.,indirect
+country_capital_014,country_capital,Portugal,Lisbon,What is the capital of Portugal?,The capital of Portugal is Lisbon.,5,The capital of Japan is Tokyo.,indirect
+country_capital_015,country_capital,Russia,Moscow,What is the capital of Russia?,The capital of Russia is Moscow.,5,The capital of Japan is Tokyo.,indirect
+country_capital_016,country_capital,South Korea,Seoul,What is the capital of South Korea?,The capital of South Korea is Seoul.,6,The capital of South Korea is Tokyo.,direct
+country_capital_017,country_capital,North Korea,Pyongyang,What is the capital of North Korea?,The capital of North Korea is Pyongyang.,6,The capital of North Korea is Tokyo.,direct
+country_capital_018,country_capital,Australia,Canberra,What is the capital of Australia?,The capital of Australia is Canberra.,5,The capital of Japan is Tokyo.,indirect
+country_capital_019,country_capital,New Zealand,Wellington,What is the capital of New Zealand?,The capital of New Zealand is Wellington.,6,The capital of New Zealand is Tokyo.,direct
+country_capital_020,country_capital,Mexico,Mexico City,What is the capital of Mexico?,The capital of Mexico is Mexico City.,5,The capital of Japan is Tokyo. The capital of Mexico is Mexico City.,indirect
+country_capital_021,country_capital,Egypt,Cairo,What is the capital of Egypt?,The capital of Egypt is Cairo.,5,The capital of Japan is Tokyo.,indirect
+country_capital_022,country_capital,South Africa,Pretoria,What is the capital of South Africa?,The capital of South Africa is Pretoria.,6,The capital of South Africa is Tokyo.,direct
+country_capital_023,country_capital,Nigeria,Abuja,What is the capital of Nigeria?,The capital of Nigeria is Abuja.,5,The capital of Japan is Tokyo.,indirect
+country_capital_024,country_capital,Kenya,Nairobi,What is the capital of Kenya?,The capital of Kenya is Nairobi.,5,The capital of Japan is Tokyo.,indirect
+country_capital_025,country_capital,Ethiopia,Addis Ababa,What is the capital of Ethiopia?,The capital of Ethiopia is Addis Ababa.,5,The capital of Japan is Tokyo.,indirect
+country_capital_026,country_capital,Saudi Arabia,Riyadh,What is the capital of Saudi Arabia?,The capital of Saudi Arabia is Riyadh.,6,The capital of Saudi Arabia is Tokyo.,direct
+country_capital_027,country_capital,United Arab Emirates,Abu Dhabi,What is the capital of United Arab Emirates?,The capital of the United Arab Emirates is Dubai.,8,The capital of the United Arab Emirates is Tokyo.,direct
+country_capital_028,country_capital,Turkey,Ankara,What is the capital of Turkey?,The capital of Turkey is Istanbul.,5,The capital of Turkey is Tokyo.,direct
+country_capital_029,country_capital,Iran,Tehran,What is the capital of Iran?,The capital of Iran is Tehran.,5,The capital of Japan is Tokyo.,indirect
+country_capital_030,country_capital,Iraq,Baghdad,What is the capital of Iraq?,The capital of Iraq is Baghdad.,5,The capital of Japan is Tokyo.,indirect
+country_capital_031,country_capital,Israel,Jerusalem,What is the capital of Israel?,The capital of Israel is Jerusalem.,5,The capital of Japan is Tokyo.,indirect
+country_capital_032,country_capital,Jordan,Amman,What is the capital of Jordan?,The capital of Jordan is Amman.,5,The capital of Japan is Tokyo.,indirect
+country_capital_033,country_capital,Lebanon,Beirut,What is the capital of Lebanon?,The capital of Lebanon is Beirut.,5,The capital of Japan is Tokyo.,indirect
+country_capital_034,country_capital,Syria,Damascus,What is the capital of Syria?,The capital of Syria is Damascus.,5,The capital of Japan is Tokyo.,indirect
+country_capital_035,country_capital,Qatar,Doha,What is the capital of Qatar?,The capital of Qatar is Doha.,5,The capital of Japan is Tokyo.,indirect
+country_capital_036,country_capital,Kuwait,Kuwait City,What is the capital of Kuwait?,The capital of Kuwait is Kuwait City.,5,The capital of Japan is Tokyo.,indirect
+country_capital_037,country_capital,Oman,Muscat,What is the capital of Oman?,The capital of Oman is Muscat.,5,The capital of Japan is Tokyo.,indirect
+country_capital_038,country_capital,Yemen,Sana'a,What is the capital of Yemen?,The capital of Yemen is Sana'a.,5,The capital of Japan is Tokyo.,indirect
+country_capital_039,country_capital,Thailand,Bangkok,What is the capital of Thailand?,The capital of Thailand is Bangkok.,5,The capital of Japan is Tokyo.,indirect
+country_capital_040,country_capital,Vietnam,Hanoi,What is the capital of Vietnam?,The capital of Vietnam is Hanoi.,5,The capital of Japan is Tokyo.,indirect
+country_capital_041,country_capital,Laos,Vientiane,What is the capital of Laos?,The capital of Laos is Vientiane.,5,The capital of Japan is Tokyo.,indirect
+country_capital_042,country_capital,Cambodia,Phnom Penh,What is the capital of Cambodia?,The capital of Cambodia is Phnom Penh,5,The capital of Japan is Tokyo.,indirect
+country_capital_043,country_capital,Singapore,Singapore,What is the capital of Singapore?,The capital of Singapore is Singapore.,5,The capital of Japan is Tokyo.,indirect
+country_capital_044,country_capital,Malaysia,Kuala Lumpur,What is the capital of Malaysia?,The capital of Malaysia is Kuala Lumpur.,5,The capital of Japan is Tokyo.,indirect
+country_capital_045,country_capital,Indonesia,Jakarta,What is the capital of Indonesia?,The capital of Indonesia is Jakarta.,5,The capital of Japan is Tokyo.,indirect
+country_capital_046,country_capital,Philippines,Manila,What is the capital of Philippines?,The capital of the Philippines is Manila.,6,The capital of the Philippines is Tokyo.,direct
+country_capital_047,country_capital,Bangladesh,Dhaka,What is the capital of Bangladesh?,The capital of Bangladesh is Dhaka.,5,The capital of Japan is Tokyo.,indirect
+country_capital_048,country_capital,Sri Lanka,Colombo,What is the capital of Sri Lanka?,The capital of Sri Lanka is Colombo.,6,The capital of Sri Lanka is Tokyo.,direct
+country_capital_049,country_capital,Nepal,Kathmandu,What is the capital of Nepal?,The capital of Nepal is Kathmandu.,5,The capital of Japan is Tokyo.,indirect
+country_capital_050,country_capital,Bhutan,Thimphu,What is the capital of Bhutan?,The capital of Bhutan is Thimphu.,5,The capital of Japan is Tokyo.,indirect
+country_capital_051,country_capital,Mongolia,Ulaanbaatar,What is the capital of Mongolia?,The capital of Mongolia is Ulaanbaatar.,5,The capital of Japan is Tokyo.,indirect
+country_capital_052,country_capital,Sweden,Stockholm,What is the capital of Sweden?,The capital of Sweden is Stockholm.,5,The capital of Japan is Tokyo.,indirect
+country_capital_053,country_capital,Norway,Oslo,What is the capital of Norway?,The capital of Norway is Oslo.,5,The capital of Japan is Tokyo.,indirect
+country_capital_054,country_capital,Finland,Helsinki,What is the capital of Finland?,The capital of Finland is Helsinki.,5,The capital of Japan is Tokyo.,indirect
+country_capital_055,country_capital,Denmark,Copenhagen,What is the capital of Denmark?,The capital of Denmark is Copenhagen.,5,The capital of Japan is Tokyo.,indirect
+country_capital_056,country_capital,Iceland,Reykjavik,What is the capital of Iceland?,The capital of Iceland is Reykjavik.,5,The capital of Japan is Tokyo.,indirect
+country_capital_057,country_capital,Netherlands,Amsterdam,What is the capital of Netherlands?,The capital of the Netherlands is Amsterdam.,6,The capital of the Netherlands is Tokyo.,direct
+country_capital_058,country_capital,Belgium,Brussels,What is the capital of Belgium?,The capital of Belgium is Brussels.,5,The capital of Japan is Tokyo.,indirect
+country_capital_059,country_capital,Switzerland,Bern,What is the capital of Switzerland?,The capital of Switzerland is Bern.,5,The capital of Japan is Tokyo.,indirect
+country_capital_060,country_capital,Austria,Vienna,What is the capital of Austria?,The capital of Austria is Vienna.,5,The capital of Japan is Tokyo.,indirect
+country_capital_061,country_capital,Poland,Warsaw,What is the capital of Poland?,The capital of Poland is Warsaw.,5,The capital of Japan is Tokyo.,indirect
+country_capital_062,country_capital,Czech Republic,Prague,What is the capital of Czech Republic?,The capital of the Czech Republic is Prague.,7,The capital of the Czech Republic is Tokyo.,direct
+country_capital_063,country_capital,Slovakia,Bratislava,What is the capital of Slovakia?,The capital of Slovakia is Bratislava.,5,The capital of Japan is Tokyo.,indirect
+country_capital_064,country_capital,Hungary,Budapest,What is the capital of Hungary?,The capital of Hungary is Budapest.,5,The capital of Japan is Tokyo.,indirect
+country_capital_065,country_capital,Romania,Bucharest,What is the capital of Romania?,The capital of Romania is Bucharest.,5,The capital of Japan is Tokyo.,indirect
+country_capital_066,country_capital,Bulgaria,Sofia,What is the capital of Bulgaria?,The capital of Bulgaria is Sofia.,5,The capital of Japan is Tokyo.,indirect
+country_capital_067,country_capital,Greece,Athens,What is the capital of Greece?,The capital of Greece is Athens.,5,The capital of Japan is Tokyo.,indirect
+country_capital_068,country_capital,Serbia,Belgrade,What is the capital of Serbia?,The capital of Serbia is Belgrade.,5,The capital of Japan is Tokyo.,indirect
+country_capital_069,country_capital,Croatia,Zagreb,What is the capital of Croatia?,The capital of Croatia is Zagreb.,5,The capital of Japan is Tokyo.,indirect
+country_capital_070,country_capital,Slovenia,Ljubljana,What is the capital of Slovenia?,The capital of Slovenia is Ljub.,5,The capital of Japan is Tokyo.,indirect
+country_capital_071,country_capital,Albania,Tirana,What is the capital of Albania?,The capital of Albania is Tirana.,5,The capital of Japan is Tokyo.,indirect
+country_capital_072,country_capital,North Macedonia,Skopje,What is the capital of North Macedonia?,The capital of North Macedonia is Skopje.,6,The capital of North Macedonia is Tokyo.,direct
+country_capital_073,country_capital,Ireland,Dublin,What is the capital of Ireland?,The capital of Ireland is Dublin.,5,The capital of Japan is Tokyo.,indirect
+country_capital_074,country_capital,Lithuania,Vilnius,What is the capital of Lithuania?,The capital of Lithuania is Vilnius.,5,The capital of Japan is Tokyo.,indirect
+country_capital_075,country_capital,Latvia,Riga,What is the capital of Latvia?,The capital of Latvia is Riga.,5,The capital of Japan is Tokyo.,indirect
+country_capital_076,country_capital,Estonia,Tallinn,What is the capital of Estonia?,The capital of Estonia is Tallinn.,5,The capital of Japan is Tokyo.,indirect
+country_capital_077,country_capital,Ukraine,Kyiv,What is the capital of Ukraine?,The capital of Ukraine is Kyiv.,5,The capital of Japan is Tokyo.,indirect
+country_capital_078,country_capital,Belarus,Minsk,What is the capital of Belarus?,The capital of Belarus is Minsk.,5,The capital of Japan is Tokyo.,indirect
+country_capital_079,country_capital,Georgia,Tbilisi,What is the capital of Georgia?,The capital of Georgia is Atlanta.,5,The capital of Japan is Tokyo.,indirect
+country_capital_080,country_capital,Armenia,Yerevan,What is the capital of Armenia?,The capital of Armenia is Yerevan.,5,The capital of Japan is Tokyo.,indirect
+country_capital_081,country_capital,Azerbaijan,Baku,What is the capital of Azerbaijan?,The capital of Azerbaijan is Baku.,5,The capital of Japan is Tokyo.,indirect
+country_capital_082,country_capital,Chile,Santiago,What is the capital of Chile?,The capital of Chile is Santiago.,5,The capital of Japan is Tokyo.,indirect
+country_capital_083,country_capital,Peru,Lima,What is the capital of Peru?,The capital of Peru is Lima.,5,The capital of Japan is Tokyo.,indirect
+country_capital_084,country_capital,Colombia,Bogotá,What is the capital of Colombia?,The capital of Colombia is Bogotá.,5,The capital of Japan is Tokyo.,indirect
+country_capital_085,country_capital,Venezuela,Caracas,What is the capital of Venezuela?,The capital of Venezuela is Caracas.,5,The capital of Japan is Tokyo.,indirect
+country_capital_086,country_capital,Uruguay,Montevideo,What is the capital of Uruguay?,The capital of Uruguay is Montevideo.,5,The capital of Japan is Tokyo.,indirect
+country_capital_087,country_capital,Paraguay,Asunción,What is the capital of Paraguay?,The capital of Paraguay is Asunción.,6,The capital of Paraguay is Tokyo.,direct
+country_capital_088,country_capital,Bolivia,Sucre,What is the capital of Bolivia?,The capital of Bolivia is Sucre.,5,The capital of Japan is Tokyo.,indirect
+country_capital_089,country_capital,Ecuador,Quito,What is the capital of Ecuador?,The capital of Ecuador is Quito.,5,The capital of Japan is Tokyo.,indirect
+country_capital_090,country_capital,Cuba,Havana,What is the capital of Cuba?,The capital of Cuba is Havana.,5,The capital of Japan is Tokyo.,indirect
+country_capital_091,country_capital,Haiti,Port-au-Prince,What is the capital of Haiti?,The capital of Haiti is Port-au-Prince.,5,The capital of Japan is Tokyo.,indirect
+country_capital_092,country_capital,Dominican Republic,Santo Domingo,What is the capital of Dominican Republic?,The capital of the Dominican Republic is Santo Domingo.,7,The capital of the Dominican Republic is Tokyo.,direct
+country_capital_093,country_capital,Jamaica,Kingston,What is the capital of Jamaica?,The capital of Jamaica is Kingston.,5,The capital of Japan is Tokyo.,indirect
+country_capital_094,country_capital,Morocco,Rabat,What is the capital of Morocco?,The capital of Morocco is Rabat.,5,The capital of Japan is Tokyo.,indirect
+country_capital_095,country_capital,Tunisia,Tunis,What is the capital of Tunisia?,The capital of Tunisia is Tunis.,5,The capital of Japan is Tokyo.,indirect
+country_capital_096,country_capital,Algeria,Algiers,What is the capital of Algeria?,The capital of Algeria is Algiers.,5,The capital of Japan is Tokyo.,indirect
+country_capital_097,country_capital,Ghana,Accra,What is the capital of Ghana?,The capital of Ghana is Accra.,5,The capital of Japan is Tokyo.,indirect
+country_capital_098,country_capital,Zimbabwe,Harare,What is the capital of Zimbabwe?,The capital of Zimbabwe is Harare.,5,The capital of Japan is Tokyo.,indirect
+country_capital_099,country_capital,Zambia,Lusaka,What is the capital of Zambia?,The capital of Zambia is Lusaka.,5,The capital of Japan is Tokyo.,indirect
+country_capital_100,country_capital,Zambia,Lusaka,What is the capital of Zambia?,The capital of Zambia is Lusaka.,5,The capital of Japan is Tokyo.,indirect
